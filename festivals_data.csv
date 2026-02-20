@@ -1,32 +1,1439 @@
 Date,Name,Type,Description
-"2026-01-14","Makara Sankranti","solar","Dhanu to Makara transit of Sun"
-"2026-01-13","Lohri","major","Winter folk festival"
-"2026-01-26","Republic Day","public","National Holiday"
-"2026-01-23","Vasant Panchami","major","Saraswati Puja"
-"2026-02-14","Maha Shivaratri","major","Great Night of Shiva"
-"2026-03-03","Holika Dahan","major","Burning of Holika"
-"2026-03-04","Holi","major","Festival of Colors"
-"2026-03-20","Gudi Padwa","major","New Year (Maharashtra)"
-"2026-03-20","Ugadi","major","New Year (South India)"
-"2026-03-28","Ram Navami","major","Birth of Lord Rama"
-"2026-04-02","Hanuman Jayanti","major","Birth of Lord Hanuman"
-"2026-04-19","Akshaya Tritiya","major","Day of Unending Prosperity"
-"2026-05-01","Buddha Purnima","major","Birth of Gautama Buddha"
-"2026-06-29","Guru Purnima","major","Honoring of Teachers"
-"2026-07-16","Jagannath Rath Yatra","major","Chariot Festival"
-"2026-08-15","Independence Day","public","National Holiday"
-"2026-08-16","Nag Panchami","major","Worship of Snakes"
-"2026-08-28","Raksha Bandhan","major","Bond of Protection"
-"2026-09-04","Krishna Janmashtami","major","Birth of Lord Krishna"
-"2026-09-14","Ganesh Chaturthi","major","Birth of Lord Ganesha"
-"2026-09-24","Anant Chaturdashi","major","Ganesha Visarjan"
-"2026-10-02","Gandhi Jayanti","public","National Holiday"
-"2026-10-10","Navratri Start","major","Nine Nights of Goddess Durga"
-"2026-10-18","Durga Ashtami","major","Eighth Day of Navratri"
-"2026-10-20","Dussehra","major","Victory of Good over Evil"
-"2026-11-08","Diwali","major","Festival of Lights"
-"2026-11-09","Govardhan Puja","major","Worship of Govardhan Hill"
-"2026-11-10","Bhai Dooj","major","Festival of Brothers and Sisters"
-"2026-11-14","Chhath Puja","major","Worship of Sun God"
-"2026-11-23","Kartik Purnima","major","Dev Deepawali"
-"2026-12-25","Christmas","public","Birth of Jesus Christ"
+2026-01-01,Rohini Vrat,major,based on Jain calendar
+2026-01-01,Guru Pradosh Vrat,vrat,"Pausha, Shukla Trayodashi"
+2026-01-03,Shakambhari Purnima,purnima,"Pausha, Shukla Purnima"
+2026-01-03,Arudra Darshan,major,based on Tamil calendar
+2026-01-03,Pausha Purnima Vrat,purnima,"Pausha, Shukla Purnima"
+2026-01-03,Pausha Purnima,purnima,"Pausha, Shukla Purnima"
+2026-01-03,Anvadhan,major,"Pausha, Shukla Chaturdashi"
+2026-01-04,Magha Begins *North,major,"Phalguna, Krishna Pratipada"
+2026-01-04,Ishti,major,"Pausha, Shukla Purnima"
+2026-01-06,Sakat Chauth,major,"Magha, Krishna Chaturthi"
+2026-01-06,Lambodara Sankashti,vrat,"Magha, Krishna Chaturthi"
+2026-01-09,Vivekananda Jayanti *Samvat,major,"Magha, Krishna Saptami"
+2026-01-10,Kalashtami,major,"Magha, Krishna Ashtami"
+2026-01-10,Masik Krishna Janmashtami,major,"Magha, Krishna Ashtami"
+2026-01-12,Swami Vivekananda Jayanti,major,fixed day in Gregorian calendar
+2026-01-12,National Youth Day,major,fixed day in Gregorian calendar
+2026-01-13,Bhogi Pandigai,major,based on Solar calendar
+2026-01-13,Lohri,major,day before Makara Sankranti
+2026-01-14,Makara Sankranti,major,Dhanu to Makara transit of Sun
+2026-01-14,Pongal,major,on Makara Sankranti day
+2026-01-14,Uttarayana,major,based on Solar calendar
+2026-01-14,Makaravilakku,major,based on Solar calendar
+2026-01-14,Shattila Ekadashi,ekadashi,"Magha, Krishna Ekadashi"
+2026-01-15,Krishna Kurma Dwadashi,major,"Magha, Krishna Dwadashi"
+2026-01-15,Mattu Pongal,major,based on Solar calendar
+2026-01-15,Magh Bihu,major,based on Solar calendar
+2026-01-16,Meru Trayodashi,major,based on Jain calendar
+2026-01-16,Shukra Pradosh Vrat,vrat,"Magha, Krishna Trayodashi"
+2026-01-16,Masik Shivaratri,major,"Magha, Krishna Chaturdashi"
+2026-01-18,Mauni Amavas,major,"Magha, Krishna Amavasya"
+2026-01-18,Thai Amavasai,major,based on Tamil calendar
+2026-01-18,Darsha Amavasya,amavasya,"Magha, Krishna Amavasya"
+2026-01-18,Anvadhan,major,"Magha, Krishna Chaturdashi"
+2026-01-18,Magha Amavasya,amavasya,"Phalguna, Krishna Amavasya"
+2026-01-19,Magha Navratri,major,"Magha, Shukla Pratipada"
+2026-01-19,Ishti,major,"Magha, Krishna Amavasya"
+2026-01-20,Chandra Darshana,major,"Magha, Shukla Pratipada"
+2026-01-22,Ganesha Jayanti,major,"Magha, Shukla Chaturthi"
+2026-01-22,Ramalala Pratishtha Diwas,major,fixed day in Gregorian calendar
+2026-01-22,Gauriganesha Chaturthi,major,"Magha, Shukla Chaturthi"
+2026-01-23,Vasant Panchami,major,"Magha, Shukla Panchami"
+2026-01-23,Saraswati Jayanti,major,"Magha, Shukla Panchami"
+2026-01-23,Subhas Chandra Bose Jayanti,major,fixed day in Gregorian calendar
+2026-01-24,Skanda Sashti,major,"Magha, Shukla Shashthi"
+2026-01-25,Bhanu Saptami,major,"Magha, Shukla Saptami"
+2026-01-25,Ratha Saptami,major,"Magha, Shukla Saptami"
+2026-01-25,Narmada Jayanti,major,"Magha, Shukla Saptami"
+2026-01-25,Brahma Savarni Manvadi,major,"Magha, Shukla Saptami"
+2026-01-26,Bhishma Ashtami,major,"Magha, Shukla Ashtami"
+2026-01-26,Republic Day,major,fixed day in Gregorian calendar
+2026-01-26,Masik Durgashtami,major,"Magha, Shukla Ashtami"
+2026-01-27,Masik Karthigai,major,based on Solar calendar
+2026-01-28,Rohini Vrat,major,based on Jain calendar
+2026-01-29,Bhishma Dwadashi,major,"Magha, Shukla Dwadashi"
+2026-01-29,Jaya Ekadashi,ekadashi,"Magha, Shukla Ekadashi"
+2026-01-30,Gandhi Punyatithi,major,fixed day in Gregorian calendar
+2026-01-30,Shukra Pradosh Vrat,vrat,"Magha, Shukla Trayodashi"
+2026-02-01,Guru Ravidas Jayanti,major,"Magha, Shukla Purnima"
+2026-02-01,Lalita Jayanti,major,"Magha, Shukla Purnima"
+2026-02-01,Thai Pusam,major,based on Tamil calendar
+2026-02-01,Magha Purnima Vrat,purnima,"Magha, Shukla Purnima"
+2026-02-01,Magha Purnima,purnima,"Magha, Shukla Purnima"
+2026-02-01,Anvadhan,major,"Magha, Shukla Chaturdashi"
+2026-02-02,Phalguna Begins *North,major,"Chaitra, Krishna Pratipada"
+2026-02-02,Ishti,major,"Magha, Shukla Purnima"
+2026-02-04,World Cancer Day,major,fixed day in Gregorian calendar
+2026-02-05,Dwijapriya Sankashti,vrat,"Phalguna, Krishna Chaturthi"
+2026-02-07,Yashoda Jayanti,major,"Phalguna, Krishna Shashthi"
+2026-02-08,Bhanu Saptami,major,"Phalguna, Krishna Saptami"
+2026-02-08,Shabari Jayanti,major,"Phalguna, Krishna Saptami"
+2026-02-09,Janaki Jayanti,major,"Phalguna, Krishna Ashtami"
+2026-02-09,Kalashtami,major,"Phalguna, Krishna Ashtami"
+2026-02-09,Masik Krishna Janmashtami,major,"Phalguna, Krishna Ashtami"
+2026-02-12,Maharishi Dayanand Saraswati Jayanti,major,"Phalguna, Krishna Dashami"
+2026-02-13,Krishna Bhishma Dwadashi,major,"Phalguna, Krishna Dwadashi"
+2026-02-13,Kumbha Sankranti,major,Makara to Kumbha transit of Sun
+2026-02-13,Vijaya Ekadashi,ekadashi,"Phalguna, Krishna Ekadashi"
+2026-02-14,Shani Trayodashi,major,"Phalguna, Krishna Trayodashi"
+2026-02-14,Valentine's Day,major,fixed day in Gregorian calendar
+2026-02-14,Shani Pradosh Vrat,vrat,"Phalguna, Krishna Trayodashi"
+2026-02-15,Maha Shivaratri,major,"Phalguna, Krishna Chaturdashi"
+2026-02-15,Masik Shivaratri,major,"Phalguna, Krishna Chaturdashi"
+2026-02-17,Surya Grahan *Valayakara,major,occurs during Amavasya
+2026-02-17,Darsha Amavasya,amavasya,"Phalguna, Krishna Amavasya"
+2026-02-17,Anvadhan,major,"Phalguna, Krishna Chaturdashi"
+2026-02-17,Phalguna Amavasya,amavasya,"Chaitra, Krishna Amavasya"
+2026-02-17,Dwapara Yuga Diwas,major,"Phalguna, Krishna Amavasya"
+2026-02-18,Ishti,major,"Phalguna, Krishna Amavasya"
+2026-02-18,Chandra Darshana,major,"Phalguna, Shukla Pratipada"
+2026-02-19,Phulera Dooj,major,"Phalguna, Shukla Dwitiya"
+2026-02-19,Ramakrishna Jayanti,major,"Phalguna, Shukla Dwitiya"
+2026-02-19,Chhatrapati Shivaji Maharaj Jayanti,major,fixed day in Gregorian calendar
+2026-02-21,Dhundhiraja Chaturthi,major,"Phalguna, Shukla Chaturthi"
+2026-02-22,Skanda Sashti,major,"Phalguna, Shukla Shashthi"
+2026-02-23,Masik Karthigai,major,based on Solar calendar
+2026-02-24,Phalguna Ashtahnika Begins,major,based on Jain calendar
+2026-02-24,Masik Durgashtami,major,"Phalguna, Shukla Ashtami"
+2026-02-25,Rohini Vrat,major,based on Jain calendar
+2026-02-27,Amalaki Ekadashi,ekadashi,"Phalguna, Shukla Ekadashi"
+2026-02-28,Narasimha Dwadashi,major,"Phalguna, Shukla Dwadashi"
+2026-03-01,Ravi Pradosh Vrat,vrat,"Phalguna, Shukla Trayodashi"
+2026-03-02,Phalguna Chaumasi Chaudas,major,based on Jain calendar
+2026-03-03,Chhoti Holi,major,"Phalguna, Shukla Purnima"
+2026-03-03,Holika Dahan,major,"Phalguna, Shukla Purnima"
+2026-03-03,Vasanta Purnima,purnima,"Phalguna, Shukla Purnima"
+2026-03-03,Chaitanya Mahaprabhu Jayanti,major,"Phalguna, Shukla Purnima"
+2026-03-03,Dol Purnima,purnima,"Phalguna, Shukla Purnima"
+2026-03-03,Lakshmi Jayanti,major,"Phalguna, Shukla Purnima"
+2026-03-03,Masi Magam,major,based on Tamil calendar
+2026-03-03,Attukal Pongal,major,based on Malayalam calendar
+2026-03-03,Chandra Grahan *Purna,major,occurs during Purnima
+2026-03-03,Phalguna Ashtahnika Ends,major,based on Jain calendar
+2026-03-03,Phalguna Purnima Vrat,purnima,"Phalguna, Shukla Purnima"
+2026-03-03,Phalguna Purnima,purnima,"Phalguna, Shukla Purnima"
+2026-03-03,Anvadhan,major,"Phalguna, Shukla Chaturdashi"
+2026-03-03,Savarni Manvadi,major,"Phalguna, Shukla Purnima"
+2026-03-04,Chaitra Begins *North,major,"Vaishakha, Krishna Pratipada"
+2026-03-04,Holi,major,"Chaitra, Krishna Pratipada"
+2026-03-04,Ishti,major,"Phalguna, Shukla Purnima"
+2026-03-05,Bhai Dooj,major,"Chaitra, Krishna Dwitiya"
+2026-03-05,Bhratri Dwitiya,major,"Chaitra, Krishna Dwitiya"
+2026-03-06,Chhatrapati Shivaji Maharaj Jayanti,major,"Chaitra, Krishna Tritiya"
+2026-03-06,Bhalachandra Sankashti,vrat,"Chaitra, Krishna Chaturthi"
+2026-03-08,Ranga Panchami,major,"Chaitra, Krishna Panchami"
+2026-03-08,International Women's Day,major,fixed day in Gregorian calendar
+2026-03-10,Sheetala Saptami,major,"Chaitra, Krishna Saptami"
+2026-03-11,Sheetala Ashtami,major,"Chaitra, Krishna Ashtami"
+2026-03-11,Basoda,major,"Chaitra, Krishna Ashtami"
+2026-03-11,Varshitapa Arambha,major,based on Jain calendar
+2026-03-11,Kalashtami,major,"Chaitra, Krishna Ashtami"
+2026-03-11,Masik Krishna Janmashtami,major,"Chaitra, Krishna Ashtami"
+2026-03-14,Karadaiyan Nombu,major,based on Tamil calendar
+2026-03-15,Krishna Narasimha Dwadashi,major,"Chaitra, Krishna Dwadashi"
+2026-03-15,Meena Sankranti,major,Kumbha to Meena transit of Sun
+2026-03-15,Papamochani Ekadashi,ekadashi,"Chaitra, Krishna Ekadashi"
+2026-03-16,Soma Pradosh Vrat,vrat,"Chaitra, Krishna Trayodashi"
+2026-03-17,Masik Shivaratri,major,"Chaitra, Krishna Chaturdashi"
+2026-03-18,Darsha Amavasya,amavasya,"Chaitra, Krishna Amavasya"
+2026-03-18,Anvadhan,major,"Chaitra, Krishna Chaturdashi"
+2026-03-19,Ugadi,major,"Chaitra, Shukla Pratipada"
+2026-03-19,Gudi Padwa,major,"Chaitra, Shukla Pratipada"
+2026-03-19,Chaitra Navratri,major,"Chaitra, Shukla Pratipada"
+2026-03-19,Chaitra Amavasya,amavasya,"Vaishakha, Krishna Amavasya"
+2026-03-19,Ishti,major,"Chaitra, Krishna Amavasya"
+2026-03-20,Jhulelal Jayanti,major,"Chaitra, Shukla Pratipada/Dwitiya"
+2026-03-20,Vernal Equinox,major,Astronomy Event
+2026-03-20,Chandra Darshana,major,"Chaitra, Shukla Pratipada"
+2026-03-21,Matsya Jayanti,major,"Chaitra, Shukla Tritiya"
+2026-03-21,Gauri Puja,major,"Chaitra, Shukla Tritiya"
+2026-03-21,Gangaur,major,"Chaitra, Shukla Tritiya"
+2026-03-21,Swayambhuva Manvadi,major,"Chaitra, Shukla Tritiya"
+2026-03-22,Vasudeva Chaturthi,major,"Chaitra, Shukla Chaturthi"
+2026-03-23,Lakshmi Panchami,major,"Chaitra, Shukla Panchami"
+2026-03-23,Masik Karthigai,major,based on Solar calendar
+2026-03-23,Shaheed Diwas,major,fixed day in Gregorian calendar
+2026-03-24,Yamuna Chhath,major,"Chaitra, Shukla Shashthi"
+2026-03-24,Rohini Vrat,major,based on Jain calendar
+2026-03-24,Skanda Sashti,major,"Chaitra, Shukla Shashthi"
+2026-03-25,Chaitra Navapada Oli Begins,major,based on Jain calendar
+2026-03-26,Rama Navami *Smarta,major,"Chaitra, Shukla Navami"
+2026-03-26,Tara Jayanti,major,"Chaitra, Shukla Navami"
+2026-03-26,Ashoka Ashtami Vrat,major,"Chaitra, Shukla Ashtami"
+2026-03-26,Masik Durgashtami,major,"Chaitra, Shukla Ashtami"
+2026-03-27,Rama Navami *ISKCON,major,"Chaitra, Shukla Navami"
+2026-03-27,Swaminarayan Jayanti,major,"Chaitra, Shukla Navami</div></div><a href=""/dwadashi/vamana/vamana-dwadashi-date-time.html?year=2026"" class=""dpEvent""><div class=""dpEventImage""><div class=""dpEmbeddedContainer dpRatio3By2""><img src=""/images/festivals/180x120/xfest_placeholder.png.pagespeed.ic.AarGgNmKoj.png"" data-srcset=""/images/gods/chaubisa-avatara/lord-vamana/180x120/lord_vamana.jpg 1x, /images/gods/chaubisa-avatara/lord-vamana/270x180/lord_vamana.jpg 2x, /images/gods/chaubisa-avatara/lord-vamana/360x240/lord_vamana.jpg 3x"" class=""dpEmbeddedContainerImg lazy"" alt=""Vamana Dwadashi""><noscript><img src=""/images/gods/chaubisa-avatara/lord-vamana/180x120/xlord_vamana.jpg.pagespeed.ic.Abxzssontb.jpg"" class=""dpEmbeddedContainerImg"" alt=""Vamana Dwadashi""></noscript></div></div><div class=""dpEventInfo""><div class=""dpEventName dpHinduEventColor"">Vamana Dwadashi</div><div class=""dpEventGregDate"">March 29, 2026, Sunday</div>Chaitra, Shukla Dwadashi"
+2026-03-29,Kamada Ekadashi,ekadashi,"Chaitra, Shukla Ekadashi"
+2026-03-30,Soma Pradosh Vrat,vrat,"Chaitra, Shukla Trayodashi"
+2026-03-31,Mahavir Swami Jayanti,major,"Chaitra, Shukla Trayodashi"
+2026-04-01,Panguni Uthiram,major,Uthiram Nakshatram in Panguni month
+2026-04-01,Bank's Holiday,major,fixed day in Gregorian calendar
+2026-04-01,Chaitra Purnima Vrat,purnima,"Chaitra, Shukla Purnima"
+2026-04-01,Anvadhan,major,"Chaitra, Shukla Chaturdashi"
+2026-04-01,Swarochisha Manvadi,major,"Chaitra, Shukla Purnima"
+2026-04-02,Hanuman Jayanti,major,"Chaitra, Shukla Purnima"
+2026-04-02,Hanuman Janmotsava,major,"Chaitra, Shukla Purnima"
+2026-04-02,Chaitra Navapada Oli Ends,major,based on Jain calendar
+2026-04-02,Chaitra Purnima,purnima,"Chaitra, Shukla Purnima"
+2026-04-02,Ishti,major,"Chaitra, Shukla Purnima"
+2026-04-03,Vaishakha Begins *North,major,"Jyeshtha, Krishna Pratipada"
+2026-04-05,Vikata Sankashti,vrat,"Vaishakha, Krishna Chaturthi"
+2026-04-09,Masik Krishna Janmashtami,major,"Vaishakha, Krishna Ashtami"
+2026-04-10,Kalashtami,major,"Vaishakha, Krishna Ashtami"
+2026-04-13,Vallabhacharya Jayanti,major,"Vaishakha, Krishna Ekadashi"
+2026-04-13,Varuthini Ekadashi,ekadashi,"Vaishakha, Krishna Ekadashi"
+2026-04-14,Krishna Vamana Dwadashi,major,"Vaishakha, Krishna Dwadashi"
+2026-04-14,Mesha Sankranti,major,Meena to Mesha transit of Sun
+2026-04-14,Solar New Year,major,first day of Hindu Solar calendar
+2026-04-14,Puthandu,major,based on Solar calendar
+2026-04-14,Ambedkar Jayanti,major,fixed day in Gregorian calendar
+2026-04-14,Baisakhi,major,observed on Mesha Sankranti
+2026-04-15,Kubjika Jayanti,major,"Vaishakha, Krishna Trayodashi"
+2026-04-15,Vishu Kani,major,based on Solar calendar
+2026-04-15,Pohela Boishakha,major,first day of Bengali calendar
+2026-04-15,Budha Pradosh Vrat,vrat,"Vaishakha, Krishna Trayodashi"
+2026-04-15,Masik Shivaratri,major,"Vaishakha, Krishna Chaturdashi"
+2026-04-17,Darsha Amavasya,amavasya,"Vaishakha, Krishna Amavasya"
+2026-04-17,Anvadhan,major,"Vaishakha, Krishna Chaturdashi"
+2026-04-17,Vaishakha Amavasya,amavasya,"Jyeshtha, Krishna Amavasya"
+2026-04-18,Parashara Rishi Jayanti,major,"Vaishakha, Shukla Pratipada"
+2026-04-18,Ishti,major,"Vaishakha, Krishna Amavasya"
+2026-04-18,Chandra Darshana,major,"Vaishakha, Shukla Pratipada"
+2026-04-19,Parashurama Jayanti,major,"Vaishakha, Shukla Tritiya"
+2026-04-19,Akshaya Tritiya,major,"Vaishakha, Shukla Tritiya"
+2026-04-19,Masik Karthigai,major,based on Solar calendar
+2026-04-19,Varshitapa Parana,major,based on Jain calendar
+2026-04-19,Treta Yuga Diwas,major,"Vaishakha, Shukla Tritiya"
+2026-04-20,Matangi Jayanti,major,"Vaishakha, Shukla Tritiya"
+2026-04-20,Rohini Vrat,major,based on Jain calendar
+2026-04-20,Sankarshana Chaturthi,major,"Vaishakha, Shukla Chaturthi"
+2026-04-21,Shankaracharya Jayanti,major,"Vaishakha, Shukla Panchami"
+2026-04-21,Surdas Jayanti,major,"Vaishakha, Shukla Panchami"
+2026-04-22,Ramanuja Jayanti,major,based on Solar calendar
+2026-04-22,Earth Day,major,fixed day in Gregorian calendar
+2026-04-22,Skanda Sashti,major,"Vaishakha, Shukla Shashthi"
+2026-04-23,Ganga Saptami,major,"Vaishakha, Shukla Saptami"
+2026-04-24,Bagalamukhi Jayanti,major,"Vaishakha, Shukla Ashtami"
+2026-04-24,Masik Durgashtami,major,"Vaishakha, Shukla Ashtami"
+2026-04-25,Sita Navami,major,"Vaishakha, Shukla Navami"
+2026-04-26,Mahavira Swami Kevalagyan,major,based on Jain calendar
+2026-04-27,Siddhilakshmi Jayanti,major,"Vaishakha, Shukla Ekadashi"
+2026-04-27,Thrissur Pooram,major,based on Malayalam calendar
+2026-04-27,Mohini Ekadashi,ekadashi,"Vaishakha, Shukla Ekadashi"
+2026-04-28,Parashurama Dwadashi,major,"Vaishakha, Shukla Dwadashi"
+2026-04-28,Bhauma Pradosh Vrat,vrat,"Vaishakha, Shukla Trayodashi"
+2026-04-30,Narasimha Jayanti,major,"Vaishakha, Shukla Chaturdashi"
+2026-04-30,Chhinnamasta Jayanti,major,"Vaishakha, Shukla Chaturdashi"
+2026-05-01,Kurma Jayanti,major,"Vaishakha, Shukla Purnima"
+2026-05-01,Buddha Purnima,purnima,"Vaishakha, Shukla Purnima"
+2026-05-01,Chandika Jayanti,major,"Vaishakha, Shukla Purnima"
+2026-05-01,Chitra Pournami,major,based on Solar calendar
+2026-05-01,International Workers' Day,major,fixed day in Gregorian calendar
+2026-05-01,Vaishakha Purnima Vrat,purnima,"Vaishakha, Shukla Purnima"
+2026-05-01,Vaishakha Purnima,purnima,"Vaishakha, Shukla Purnima"
+2026-05-01,Anvadhan,major,"Vaishakha, Shukla Chaturdashi"
+2026-05-02,Narada Jayanti,major,"Jyeshtha, Krishna Pratipada"
+2026-05-02,Jyeshtha Begins *North,major,"Ashadha, Krishna Pratipada"
+2026-05-02,Ishti,major,"Vaishakha, Shukla Purnima"
+2026-05-03,World Laughter Day,major,1st Sunday of May
+2026-05-04,Agni Nakshatram Begins,major,based on Solar calendar
+2026-05-05,Ekadanta Sankashti,vrat,"Jyeshtha, Krishna Chaturthi"
+2026-05-07,Rabindranath Tagore Jayanti,major,fixed day in Gregorian calendar
+2026-05-09,Tagore Jayanti *Bengal,major,based on Bengali calendar
+2026-05-09,Kalashtami,major,"Jyeshtha, Krishna Ashtami"
+2026-05-09,Masik Krishna Janmashtami,major,"Jyeshtha, Krishna Ashtami"
+2026-05-10,Mother's Day,major,2nd Sunday of May
+2026-05-12,Hanuman Jayanti *Telugu,major,"Jyeshtha, Krishna Dashami"
+2026-05-13,Krishna Parashurama Dwadashi,major,"Jyeshtha, Krishna Dwadashi"
+2026-05-13,Apara Ekadashi,ekadashi,"Jyeshtha, Krishna Ekadashi"
+2026-05-14,Guru Pradosh Vrat,vrat,"Jyeshtha, Krishna Trayodashi"
+2026-05-15,Vrishabha Sankranti,major,Mesha to Vrishabha transit of Sun
+2026-05-15,Masik Shivaratri,major,"Jyeshtha, Krishna Chaturdashi"
+2026-05-16,Vat Savitri Vrat,major,"Jyeshtha, Krishna Amavasya"
+2026-05-16,Shani Jayanti,major,"Jyeshtha, Krishna Amavasya"
+2026-05-16,Masik Karthigai,major,based on Solar calendar
+2026-05-16,Darsha Amavasya,amavasya,"Jyeshtha, Krishna Amavasya"
+2026-05-16,Anvadhan,major,"Jyeshtha, Krishna Chaturdashi"
+2026-05-16,Jyeshtha Amavasya,amavasya,"Ashadha, Krishna Amavasya"
+2026-05-17,Ishti,major,"Jyeshtha, Krishna Amavasya"
+2026-05-17,Adhika Chandra Darshana,major,"Jyeshtha Adhika, Shukla Pratipada"
+2026-05-18,Rohini Vrat,major,based on Jain calendar
+2026-05-20,Varada Chaturthi,major,"Jyeshtha Adhika, Shukla Chaturthi"
+2026-05-21,Adhika Skanda Sashti,major,"Jyeshtha Adhika, Shukla Shashthi"
+2026-05-23,Adhika Masik Durgashtami,major,"Jyeshtha Adhika, Shukla Ashtami"
+2026-05-25,Ganga Dussehra,major,"Jyeshtha, Shukla Dashami"
+2026-05-27,Adhika Ramalakshmana Dwadashi,major,"Jyeshtha Adhika, Shukla Dwadashi"
+2026-05-27,Padmini Ekadashi,ekadashi,"Jyeshtha Adhika, Shukla Ekadashi"
+2026-05-28,Agni Nakshatram Ends,major,based on Solar calendar
+2026-05-28,Guru Pradosh Vrat,vrat,"Jyeshtha Adhika, Shukla Trayodashi"
+2026-05-30,Vaikasi Visakam,major,"Vrishabha Masam, Vishakha Nakshatra"
+2026-05-30,Adhika Purnima Vrat,purnima,"Jyeshtha Adhika, Shukla Purnima"
+2026-05-31,World No Tobacco Day,major,fixed day in Gregorian calendar
+2026-05-31,Jyeshtha Adhika Purnima,purnima,"Jyeshtha Adhika, Shukla Purnima"
+2026-05-31,Anvadhan,major,"Jyeshtha Adhika, Shukla Chaturdashi"
+2026-06-01,Ishti,major,"Jyeshtha Adhika, Krishna Purnima"
+2026-06-03,Vibhuvana Sankashti,vrat,"Jyeshtha Adhika, Krishna Chaturthi"
+2026-06-05,World Environment Day,major,fixed day in Gregorian calendar
+2026-06-07,Adhika Bhanu Saptami,major,"Jyeshtha Adhika, Krishna Saptami"
+2026-06-08,Adhika Kalashtami,major,"Jyeshtha Adhika, Krishna Ashtami"
+2026-06-08,Adhik Masik Krishna Janmashtami,major,"Jyeshtha Adhika, Krishna Ashtami"
+2026-06-11,Parama Ekadashi,ekadashi,"Jyeshtha Adhika, Krishna Ekadashi"
+2026-06-12,Adhika Krishna Ramalakshmana Dwadashi,major,"Jyeshtha Adhika, Krishna Dwadashi"
+2026-06-12,Shukra Pradosh Vrat,vrat,"Jyeshtha Adhika, Krishna Trayodashi"
+2026-06-13,Masik Karthigai,major,based on Solar calendar
+2026-06-13,Adhika Masik Shivaratri,major,"Jyeshtha Adhika, Krishna Chaturdashi"
+2026-06-14,Rohini Vrat,major,based on Jain calendar
+2026-06-14,Adhika Darsha Amavasya,amavasya,"Jyeshtha Adhika, Krishna Amavasya"
+2026-06-14,Anvadhan,major,"Jyeshtha Adhika, Shukla Chaturdashi"
+2026-06-15,Jyeshtha Adhika Maas Ends,major,Jyeshtha Adhika Maas Ends
+2026-06-15,Mithuna Sankranti,major,Vrishabha to Mithuna transit of Sun
+2026-06-15,Jyeshtha Adhika Amavasya,amavasya,"Jyeshtha Adhika, Krishna Amavasya"
+2026-06-15,Ishti,major,"Jyeshtha Adhika, Krishna Amavasya"
+2026-06-16,Chandra Darshana,major,"Jyeshtha, Shukla Pratipada"
+2026-06-17,Maharana Pratap Jayanti,major,"Jyeshtha, Shukla Tritiya"
+2026-06-18,Pradyumna Chaturthi,major,"Jyeshtha, Shukla Chaturthi"
+2026-06-19,Skanda Sashti,major,"Jyeshtha, Shukla Shashthi"
+2026-06-20,Jamai Shashti,major,"Jyeshtha, Shukla Shashthi"
+2026-06-21,Bhanu Saptami,major,"Jyeshtha, Shukla Saptami"
+2026-06-21,Longest Day of Year,major,Astronomy Event
+2026-06-21,Father's Day,major,3rd Sunday of June
+2026-06-21,International Yoga Day,major,fixed day in Gregorian calendar
+2026-06-22,Dhumavati Jayanti,major,"Jyeshtha, Shukla Ashtami"
+2026-06-22,Masik Durgashtami,major,"Jyeshtha, Shukla Ashtami"
+2026-06-23,Mahesh Navami,major,"Jyeshtha, Shukla Navami"
+2026-06-25,Gayatri Jayanti,major,"Jyeshtha, Shukla Ekadashi"
+2026-06-25,Nirjala Ekadashi,ekadashi,"Jyeshtha, Shukla Ekadashi"
+2026-06-26,Ramalakshmana Dwadashi,major,"Jyeshtha, Shukla Dwadashi"
+2026-06-27,Shani Trayodashi,major,"Jyeshtha, Shukla Trayodashi"
+2026-06-27,Shani Pradosh Vrat,vrat,"Jyeshtha, Shukla Trayodashi"
+2026-06-29,Vat Purnima Vrat,purnima,"Jyeshtha, Shukla Purnima"
+2026-06-29,Kabirdas Jayanti,major,"Jyeshtha, Shukla Purnima"
+2026-06-29,Batuka Bhairavi Jayanti,major,"Jyeshtha, Shukla Purnima"
+2026-06-29,Jyeshtha Purnima Vrat,purnima,"Jyeshtha, Shukla Purnima"
+2026-06-29,Jyeshtha Purnima,purnima,"Jyeshtha, Shukla Purnima"
+2026-06-29,Anvadhan,major,"Jyeshtha, Shukla Chaturdashi"
+2026-06-29,Vaivaswata Manvadi,major,"Jyeshtha, Shukla Purnima"
+2026-06-30,Ashadha Begins *North,major,"Shravana, Krishna Pratipada"
+2026-06-30,Ishti,major,"Jyeshtha, Shukla Purnima"
+2026-07-03,Krishnapingala Sankashti,vrat,"Ashadha, Krishna Chaturthi"
+2026-07-07,Kalashtami,major,"Ashadha, Krishna Ashtami"
+2026-07-07,Masik Krishna Janmashtami,major,"Ashadha, Krishna Ashtami"
+2026-07-10,Masik Karthigai,major,based on Solar calendar
+2026-07-10,Yogini Ekadashi,ekadashi,"Ashadha, Krishna Ekadashi"
+2026-07-11,Krishna Ramalakshmana Dwadashi,major,"Ashadha, Krishna Dwadashi"
+2026-07-11,Gauna Yogini Ekadashi,ekadashi,"Ashadha, Krishna Ekadashi"
+2026-07-11,Vaishnava Yogini Ekadashi,ekadashi,"Ashadha, Krishna Ekadashi"
+2026-07-12,Rohini Vrat,major,based on Jain calendar
+2026-07-12,Ravi Pradosh Vrat,vrat,"Ashadha, Krishna Trayodashi"
+2026-07-12,Masik Shivaratri,major,"Ashadha, Krishna Chaturdashi"
+2026-07-14,Darsha Amavasya,amavasya,"Ashadha, Krishna Amavasya"
+2026-07-14,Anvadhan,major,"Ashadha, Krishna Chaturdashi"
+2026-07-14,Ashadha Amavasya,amavasya,"Shravana, Krishna Amavasya"
+2026-07-15,Ashadha Navratri,major,"Ashadha, Shukla Pratipada"
+2026-07-15,Ishti,major,"Ashadha, Krishna Amavasya"
+2026-07-15,Chandra Darshana,major,"Ashadha, Shukla Pratipada"
+2026-07-16,Jagannath Rathyatra,major,"Ashadha, Shukla Dwitiya"
+2026-07-16,Karka Sankranti,major,Mithuna to Karka transit of Sun
+2026-07-17,Aniruddha Chaturthi,major,"Ashadha, Shukla Chaturthi"
+2026-07-19,Skanda Sashti,major,"Ashadha, Shukla Shashthi"
+2026-07-20,Ashadha Ashtahnika Begins,major,based on Jain calendar
+2026-07-21,Parvati Jayanti,major,"Ashadha, Shukla Ashtami"
+2026-07-21,Masik Durgashtami,major,"Ashadha, Shukla Ashtami"
+2026-07-22,Bhadali Navami,major,"Ashadha, Shukla Navami"
+2026-07-24,Asha Dashami Vrat,major,"Ashadha, Shukla Dashami"
+2026-07-24,Raivata Manvadi,major,"Ashadha, Shukla Dashami"
+2026-07-25,Vasudeva Dwadashi,major,"Ashadha, Shukla Dwadashi"
+2026-07-25,Gauri Vrat Begins,major,"Ashadha, Shukla Dwadashi"
+2026-07-25,Devshayani Ekadashi,ekadashi,"Ashadha, Shukla Ekadashi"
+2026-07-26,Ravi Pradosh Vrat,vrat,"Ashadha, Shukla Trayodashi"
+2026-07-27,Jayaparvati Vrat Begins,major,"Ashadha, Shukla Trayodashi"
+2026-07-28,Kokila Vrat,major,"Ashadha, Shukla Purnima"
+2026-07-28,Ashadha Chaumasi Chaudas,major,based on Jain calendar
+2026-07-29,Guru Purnima,purnima,"Ashadha, Shukla Purnima"
+2026-07-29,Vyasa Puja,major,"Ashadha, Shukla Purnima"
+2026-07-29,Gauri Vrat Ends,major,"Ashadha, Shukla Purnima"
+2026-07-29,Dakshinamurti Jayanti,major,"Ashadha, Shukla Purnima"
+2026-07-29,Ashadha Ashtahnika Ends,major,based on Jain calendar
+2026-07-29,Ashadha Purnima Vrat,purnima,"Ashadha, Shukla Purnima"
+2026-07-29,Ashadha Purnima,purnima,"Ashadha, Shukla Purnima"
+2026-07-29,Anvadhan,major,"Ashadha, Shukla Chaturdashi"
+2026-07-29,Chakshusha Manvadi,major,"Ashadha, Shukla Purnima"
+2026-07-30,Shravana Begins *North,major,"Bhadrapada, Krishna Pratipada"
+2026-07-30,Ishti,major,"Ashadha, Shukla Purnima"
+2026-08-01,Jayaparvati Vrat Ends,major,"Shravana, Krishna Tritiya"
+2026-08-02,Friendship Day,major,1st Sunday of August
+2026-08-02,Gajanana Sankashti,vrat,"Shravana, Krishna Chaturthi"
+2026-08-03,First Shravan Somwar Vrat,major,First Monday in Shravana
+2026-08-03,Aadi Perukku,major,18th day of Tamil Aadi Masam
+2026-08-04,First Mangala Gauri Vrat,major,First Tuesday in Shravana
+2026-08-05,Kalashtami,major,"Shravana, Krishna Ashtami"
+2026-08-05,Masik Krishna Janmashtami,major,"Shravana, Krishna Ashtami"
+2026-08-07,Masik Karthigai,major,based on Solar calendar
+2026-08-08,Rohini Vrat,major,based on Jain calendar
+2026-08-09,Krishna Vasudeva Dwadashi,major,"Shravana, Krishna Dwadashi"
+2026-08-09,Kamika Ekadashi,ekadashi,"Shravana, Krishna Ekadashi"
+2026-08-10,Second Shravan Somwar Vrat,major,Second Monday in Shravana
+2026-08-10,Soma Pradosh Vrat,vrat,"Shravana, Krishna Trayodashi"
+2026-08-11,Sawan Shivaratri,major,"Shravana, Krishna Chaturdashi"
+2026-08-11,Second Mangala Gauri Vrat,major,Second Tuesday in Shravana
+2026-08-11,Masik Shivaratri,major,"Shravana, Krishna Chaturdashi"
+2026-08-12,Hariyali Amavasya,amavasya,"Shravana, Krishna Amavasya"
+2026-08-12,Aadi Amavasai,major,based on Tamil calendar
+2026-08-12,Surya Grahan *Purna,major,occurs during Amavasya
+2026-08-12,Darsha Amavasya,amavasya,"Shravana, Krishna Amavasya"
+2026-08-12,Anvadhan,major,"Shravana, Krishna Chaturdashi"
+2026-08-12,Shravana Amavasya,amavasya,"Bhadrapada, Krishna Amavasya"
+2026-08-13,Ishti,major,"Shravana, Krishna Amavasya"
+2026-08-14,Andal Jayanthi,major,based on Tamil calendar
+2026-08-14,Chandra Darshana,major,"Shravana, Shukla Pratipada"
+2026-08-15,Hariyali Teej,major,"Shravana, Shukla Tritiya"
+2026-08-15,Independence Day,major,fixed day in Gregorian calendar
+2026-08-16,Durva Ganapati Chaturthi,major,"Shravana, Shukla Chaturthi"
+2026-08-17,Nag Panchami,major,"Shravana, Shukla Panchami"
+2026-08-17,Third Shravan Somwar Vrat,major,Third Monday in Shravana
+2026-08-17,Simha Sankranti,major,Karka to Simha transit of Sun
+2026-08-17,Malayalam New Year,major,first day of Chingam Masam
+2026-08-17,Skanda Sashti,major,"Shravana, Shukla Shashthi"
+2026-08-18,Kalki Jayanti,major,"Shravana, Shukla Shashthi"
+2026-08-18,Third Mangala Gauri Vrat,major,Third Tuesday in Shravana
+2026-08-19,Tulsidas Jayanti,major,"Shravana, Shukla Saptami"
+2026-08-20,Masik Durgashtami,major,"Shravana, Shukla Ashtami"
+2026-08-23,Shravana Putrada Ekadashi,ekadashi,"Shravana, Shukla Ekadashi"
+2026-08-24,Damodara Dwadashi,major,"Shravana, Shukla Dwadashi"
+2026-08-24,Fourth Shravan Somwar Vrat,major,Fourth Monday in Shravana
+2026-08-24,Vaishnava Shravana Putrada Ekadashi,ekadashi,"Shravana, Shukla Ekadashi"
+2026-08-25,Fourth Mangala Gauri Vrat,major,Fourth Tuesday in Shravana
+2026-08-25,Bhauma Pradosh Vrat,vrat,"Shravana, Shukla Trayodashi"
+2026-08-26,Rigveda Upakarma,major,
+2026-08-26,Onam,major,Sun in Simha &amp; Shravana Nakshatra
+2026-08-27,Yajurveda Upakarma,major,
+2026-08-27,Hayagriva Jayanti,major,"Shravana, Shukla Purnima"
+2026-08-27,Shravana Purnima Vrat,purnima,"Shravana, Shukla Purnima"
+2026-08-27,Anvadhan,major,"Shravana, Shukla Chaturdashi"
+2026-08-28,Varalakshmi Vrat,major,Friday before Shravana Purnima
+2026-08-28,Raksha Bandhan,major,"Shravana, Shukla Purnima"
+2026-08-28,Rakhi,major,"Shravana, Shukla Purnima"
+2026-08-28,Gayatri Jayanti,major,"Shravana, Shukla Purnima"
+2026-08-28,Gayatri Japam,major,
+2026-08-28,Narali Purnima,purnima,"Shravana, Shukla Purnima"
+2026-08-28,Sanskrit Diwas,major,"Shravana, Shukla Purnima"
+2026-08-28,Chandra Grahan *Anshika,major,occurs during Purnima
+2026-08-28,Shravana Purnima,purnima,"Shravana, Shukla Purnima"
+2026-08-28,Ishti,major,"Shravana, Shukla Purnima"
+2026-08-29,Bhadrapada Begins *North,major,"Ashwina, Krishna Pratipada"
+2026-08-31,Kajari Teej,major,"Bhadrapada, Krishna Tritiya"
+2026-08-31,Bahula Chaturthi,major,"Bhadrapada, Krishna Chaturthi"
+2026-08-31,Maha Sangada Hara Chathurti,major,"Bhadrapada, Krishna Chaturthi"
+2026-08-31,Heramba Sankashti,vrat,"Bhadrapada, Krishna Chaturthi"
+2026-09-01,Nag Pancham,major,"Bhadrapada, Krishna Panchami"
+2026-09-02,Hala Shashthi,major,"Bhadrapada, Krishna Shashthi"
+2026-09-02,Randhan Chhath,major,"Bhadrapada, Krishna Shashthi"
+2026-09-03,Shitala Satam,major,"Bhadrapada, Krishna Saptami"
+2026-09-03,Masik Karthigai,major,based on Solar calendar
+2026-09-04,Krishna Janmashtami,major,"Bhadrapada, Krishna Ashtami"
+2026-09-04,Kali Jayanti,major,"Bhadrapada, Krishna Ashtami"
+2026-09-04,Vindhyavasini Jayanti,major,"Bhadrapada, Krishna Ashtami"
+2026-09-04,Ashtami Rohini,major,based on Solar calendar
+2026-09-04,Agastya Arghya,major,based on Astronomy calculations
+2026-09-04,Rohini Vrat,major,based on Jain calendar
+2026-09-04,Kalashtami,major,"Bhadrapada, Krishna Ashtami"
+2026-09-04,Masik Krishna Janmashtami,major,"Bhadrapada, Krishna Ashtami"
+2026-09-04,Indra Savarni Manvadi,major,"Bhadrapada, Krishna Ashtami"
+2026-09-05,Dahi Handi,major,"Bhadrapada, Krishna Navami"
+2026-09-05,Shri Goga Navami,major,"Bhadrapada, Krishna Navami"
+2026-09-05,Teachers' Day,major,fixed day in Gregorian calendar
+2026-09-07,Bachha Baras Dwadashi,major,"Bhadrapada, Krishna Dwadashi"
+2026-09-07,Aja Ekadashi,ekadashi,"Bhadrapada, Krishna Ekadashi"
+2026-09-08,Krishna Damodara Dwadashi,major,"Bhadrapada, Krishna Dwadashi"
+2026-09-08,Paryushana Parvarambha,major,based on Jain calendar
+2026-09-08,Bhauma Pradosh Vrat,vrat,"Bhadrapada, Krishna Trayodashi"
+2026-09-09,Masik Shivaratri,major,"Bhadrapada, Krishna Chaturdashi"
+2026-09-10,Pithori Amavasya,amavasya,"Bhadrapada, Krishna Amavasya"
+2026-09-10,Darsha Amavasya,amavasya,"Bhadrapada, Krishna Amavasya"
+2026-09-10,Anvadhan,major,"Bhadrapada, Krishna Chaturdashi"
+2026-09-10,Daiva Savarni Manvadi,major,"Bhadrapada, Krishna Amavasya"
+2026-09-11,Pola,major,"Bhadrapada, Krishna Amavasya"
+2026-09-11,Vrishabhotsava,major,"Bhadrapada, Krishna Amavasya"
+2026-09-11,Ishti,major,"Bhadrapada, Krishna Amavasya"
+2026-09-11,Bhadrapada Amavasya,amavasya,"Ashwina, Krishna Amavasya"
+2026-09-12,Samaveda Upakarma,major,
+2026-09-13,Varaha Jayanti,major,"Bhadrapada, Shukla Tritiya"
+2026-09-13,Chandra Darshana,major,"Bhadrapada, Shukla Pratipada"
+2026-09-13,Rudra Savarni Manvadi,major,"Bhadrapada, Shukla Tritiya"
+2026-09-14,Hartalika Teej,major,"Bhadrapada, Shukla Tritiya"
+2026-09-14,Ganesh Chaturthi,major,"Bhadrapada, Shukla Chaturthi"
+2026-09-14,Gowri Habba,major,"Bhadrapada, Shukla Tritiya"
+2026-09-14,Kerala Vinayaka Chaturthi,major,"Chingam, Shukla Chaturthi"
+2026-09-14,Hindi Diwas,major,fixed day in Gregorian calendar
+2026-09-14,Siddhivinayaka Chaturthi,major,"Bhadrapada, Shukla Chaturthi"
+2026-09-15,Rishi Panchami,major,"Bhadrapada, Shukla Panchami"
+2026-09-15,Visvesvaraya Jayanti,major,fixed day in Gregorian calendar
+2026-09-15,Samvatsari Parva,major,based on Jain calendar
+2026-09-15,Engineer's Day,major,fixed day in Gregorian calendar
+2026-09-16,Balarama Jayanti,major,"Bhadrapada, Shukla Shashthi"
+2026-09-16,Skanda Sashti,major,"Bhadrapada, Shukla Shashthi"
+2026-09-17,Jyeshtha Gauri Avahana,major,
+2026-09-17,Vishwakarma Puja,major,on Kanya Sankranti day
+2026-09-17,Kanya Sankranti,major,Simha to Kanya transit of Sun
+2026-09-18,Lalita Saptami,major,"Bhadrapada, Shukla Saptami"
+2026-09-18,Durva Ashtami,major,"Bhadrapada, Shukla Ashtami"
+2026-09-18,Jyeshtha Gauri Puja,major,
+2026-09-19,Radha Ashtami,major,"Bhadrapada, Shukla Ashtami"
+2026-09-19,Mahalakshmi Vrat Begins,major,"Bhadrapada, Shukla Ashtami"
+2026-09-19,Jyeshtha Gauri Visarjana,major,
+2026-09-19,Dadhichi Jayanti,major,"Bhadrapada, Shukla Ashtami"
+2026-09-19,Masik Durgashtami,major,"Bhadrapada, Shukla Ashtami"
+2026-09-21,Dashavatara Vrat,major,"Bhadrapada, Shukla Dashami"
+2026-09-22,Kalki Dwadashi,major,"Bhadrapada, Shukla Dwadashi"
+2026-09-22,Parsva Ekadashi,ekadashi,"Bhadrapada, Shukla Ekadashi"
+2026-09-23,Vamana Jayanti,major,"Bhadrapada, Shukla Dwadashi"
+2026-09-23,Bhuvaneshvari Jayanti,major,"Bhadrapada, Shukla Dwadashi"
+2026-09-23,Autumnal Equinox,major,Astronomy Event
+2026-09-24,Guru Pradosh Vrat,vrat,"Bhadrapada, Shukla Trayodashi"
+2026-09-25,Ganesh Visarjan,major,"Bhadrapada, Shukla Chaturdashi"
+2026-09-25,Anant Chaturdashi,major,"Bhadrapada, Shukla Chaturdashi"
+2026-09-26,Purnima Shraddha,purnima,"Bhadrapada, Shukla Purnima"
+2026-09-26,Bhadrapada Purnima Vrat,purnima,"Bhadrapada, Shukla Purnima"
+2026-09-26,Bhadrapada Purnima,purnima,"Bhadrapada, Shukla Purnima"
+2026-09-26,Anvadhan,major,"Bhadrapada, Shukla Chaturdashi"
+2026-09-27,Pitrupaksha Begins,major,"Ashwina, Krishna Pratipada"
+2026-09-27,Pratipada Shraddha,major,"Ashwina, Krishna Pratipada"
+2026-09-27,Ashwina Begins *North,major,"Kartika, Krishna Pratipada"
+2026-09-27,Ishti,major,"Bhadrapada, Shukla Purnima"
+2026-09-28,Dwitiya Shraddha,major,"Ashwina, Krishna Dwitiya"
+2026-09-29,Tritiya Shraddha,major,"Ashwina, Krishna Tritiya"
+2026-09-29,Maha Bharani,major,"Ashwina, Bharani Nakshatra"
+2026-09-29,Vighnaraja Sankashti,vrat,"Ashwina, Krishna Chaturthi"
+2026-09-30,Chaturthi Shraddha,major,"Ashwina, Krishna Chaturthi"
+2026-09-30,Panchami Shraddha,major,"Ashwina, Krishna Panchami"
+2026-09-30,Masik Karthigai,major,based on Solar calendar
+2026-10-01,Shashthi Shraddha,major,"Ashwina, Krishna Shashthi"
+2026-10-01,Rohini Vrat,major,based on Jain calendar
+2026-10-02,Saptami Shraddha,major,"Ashwina, Krishna Saptami"
+2026-10-02,Gandhi Jayanti,major,fixed day in Gregorian calendar
+2026-10-03,Ashtami Shraddha,major,"Ashwina, Krishna Ashtami"
+2026-10-03,Mahalakshmi Vrat Ends,major,"Ashwina, Krishna Ashtami"
+2026-10-03,Jivitputrika Vrat,major,"Ashwina, Krishna Ashtami"
+2026-10-03,Kalashtami,major,"Ashwina, Krishna Ashtami"
+2026-10-03,Masik Krishna Janmashtami,major,"Ashwina, Krishna Ashtami"
+2026-10-04,Navami Shraddha,major,"Ashwina, Krishna Navami"
+2026-10-05,Dashami Shraddha,major,"Ashwina, Krishna Dashami"
+2026-10-06,Ekadashi Shraddha,ekadashi,"Ashwina, Krishna Ekadashi"
+2026-10-06,Indira Ekadashi,ekadashi,"Ashwina, Krishna Ekadashi"
+2026-10-07,Krishna Kalki Dwadashi,major,"Ashwina, Krishna Dwadashi"
+2026-10-07,Dwadashi Shraddha,major,"Ashwina, Krishna Dwadashi"
+2026-10-07,Magha Shraddha,major,"Ashwina, Magha Nakshatra"
+2026-10-08,Trayodashi Shraddha,major,"Ashwina, Krishna Trayodashi"
+2026-10-08,Guru Pradosh Vrat,vrat,"Ashwina, Krishna Trayodashi"
+2026-10-08,Masik Shivaratri,major,"Ashwina, Krishna Chaturdashi"
+2026-10-08,Kali Yuga Diwas,major,"Ashwina, Krishna Trayodashi"
+2026-10-09,Chaturdashi Shraddha,major,"Ashwina, Krishna Chaturdashi"
+2026-10-10,Sarva Pitru Amavasya,amavasya,"Ashwina, Krishna Amavasya"
+2026-10-10,Darsha Amavasya,amavasya,"Ashwina, Krishna Amavasya"
+2026-10-10,Anvadhan,major,"Ashwina, Krishna Chaturdashi"
+2026-10-10,Ashwina Amavasya,amavasya,"Kartika, Krishna Amavasya"
+2026-10-11,Maharaja Agrasen Jayanti,major,"Ashwina, Shukla Pratipada"
+2026-10-11,Navratri Begins,major,"Ashwina, Shukla Pratipada"
+2026-10-11,Ghatasthapana,major,"Ashwina, Shukla Pratipada"
+2026-10-11,Ishti,major,"Ashwina, Krishna Amavasya"
+2026-10-12,Chandra Darshana,major,"Ashwina, Shukla Pratipada"
+2026-10-14,Kapardisha Chaturthi,major,"Ashwina, Shukla Chaturthi"
+2026-10-15,Upang Lalita Vrat,major,"Ashwina, Shukla Panchami"
+2026-10-16,Saraswati Avahan,major,"Ashwina, Mula Nakshatra"
+2026-10-16,Bilva Nimantran,major,"Ashwina, Shukla Shashthi"
+2026-10-16,Kalparambha,major,"Ashwina, Shukla Shashthi"
+2026-10-16,Akal Bodhon,major,"Ashwina, Shukla Shashthi"
+2026-10-16,Skanda Sashti,major,"Ashwina, Shukla Shashthi"
+2026-10-17,Saraswati Puja,major,"Ashwina, Purva Ashadha Nakshatra"
+2026-10-17,Navpatrika Puja,major,"Ashwina, Shukla Saptami"
+2026-10-17,Tula Sankranti,major,Kanya to Tula transit of Sun
+2026-10-17,Ashwina Navapada Oli Begins,major,based on Jain calendar
+2026-10-18,Saraswati Balidan,major,"Ashwina, Uttara Ashadha Nakshatra"
+2026-10-19,Durga Ashtami,major,"Ashwina, Shukla Ashtami"
+2026-10-19,Sandhi Puja,major,"Ashwina, Shukla Ashtami"
+2026-10-19,Maha Navami,major,"Ashwina, Shukla Navami"
+2026-10-19,Saraswati Visarjan,major,"Ashwina, Shravana Nakshatra"
+2026-10-19,Masik Durgashtami,major,"Ashwina, Shukla Ashtami"
+2026-10-20,Ayudha Puja,major,"Ashwina, Shukla Navami"
+2026-10-20,Durga Balidan,major,"Ashwina, Shukla Navami"
+2026-10-20,Durga Visarjan,major,"Ashwina, Shukla Dashami"
+2026-10-20,Vijayadashami,major,"Ashwina, Shukla Dashami"
+2026-10-20,Dussehra,major,"Ashwina, Shukla Dashami"
+2026-10-20,Bengal Maha Navami,major,"Ashwina, Shukla Navami"
+2026-10-20,South Saraswati Puja,major,"Ashwina, Shukla Navami"
+2026-10-20,Buddha Jayanti,major,"Ashwina, Shukla Dashami"
+2026-10-20,Aparajita Jayanti,major,"Ashwina, Shukla Dashami"
+2026-10-20,Daksha Savarni Manvadi,major,"Ashwina, Shukla Navami"
+2026-10-21,Bengal Vijayadashami,major,"Ashwina, Shukla Dashami"
+2026-10-21,Vidyarambham Day,major,"Ashwina, Shukla Dashami"
+2026-10-21,Madhvacharya Jayanti,major,"Ashwina, Shukla Dashami"
+2026-10-21,Mysore Dasara,major,"Ashwina, Shukla Dashami"
+2026-10-21,Kashi Bharat Milap,major,next day of Dussehra
+2026-10-22,Padmanabha Dwadashi,major,"Ashwina, Shukla Dwadashi"
+2026-10-22,Papankusha Ekadashi,ekadashi,"Ashwina, Shukla Ekadashi"
+2026-10-23,Shukra Pradosh Vrat,vrat,"Ashwina, Shukla Trayodashi"
+2026-10-25,Kojagara Puja,major,"Ashwina, Shukla Purnima"
+2026-10-25,Sharad Purnima,purnima,"Ashwina, Shukla Purnima"
+2026-10-25,Ashwina Purnima Vrat,purnima,"Ashwina, Shukla Purnima"
+2026-10-25,Anvadhan,major,"Ashwina, Shukla Chaturdashi"
+2026-10-26,Valmiki Jayanti,major,"Ashwina, Shukla Purnima"
+2026-10-26,Meerabai Jayanti,major,"Ashwina, Shukla Purnima"
+2026-10-26,Ashwina Navapada Oli Ends,major,based on Jain calendar
+2026-10-26,Ashwina Purnima,purnima,"Ashwina, Shukla Purnima"
+2026-10-26,Ishti,major,"Ashwina, Shukla Purnima"
+2026-10-27,Kartika Begins *North,major,"Margashirsha, Krishna Pratipada"
+2026-10-27,Masik Karthigai,major,based on Solar calendar
+2026-10-28,Atla Tadde,major,"Kartika, Krishna Tritiya"
+2026-10-29,Karwa Chauth,major,"Kartika, Krishna Chaturthi"
+2026-10-29,Rohini Vrat,major,based on Jain calendar
+2026-10-29,Vakratunda Sankashti,vrat,"Kartika, Krishna Chaturthi"
+2026-11-01,Bhanu Saptami,major,"Kartika, Krishna Saptami"
+2026-11-01,Ahoi Ashtami,major,"Kartika, Krishna Ashtami"
+2026-11-01,Radha Kunda Snan,major,"Kartika, Krishna Ashtami"
+2026-11-01,Kalashtami,major,"Kartika, Krishna Ashtami"
+2026-11-01,Masik Krishna Janmashtami,major,"Kartika, Krishna Ashtami"
+2026-11-05,Krishna Padmanabha Dwadashi,major,"Kartika, Krishna Dwadashi"
+2026-11-05,Govatsa Dwadashi,major,"Kartika, Krishna Dwadashi"
+2026-11-05,Rama Ekadashi,ekadashi,"Kartika, Krishna Ekadashi"
+2026-11-06,Dhanteras,major,"Kartika, Krishna Trayodashi"
+2026-11-06,Yama Deepam,major,"Kartika, Krishna Trayodashi"
+2026-11-06,Yama Panchaka Begins,major,
+2026-11-06,Shukra Pradosh Vrat,vrat,"Kartika, Krishna Trayodashi"
+2026-11-07,Kali Chaudas,major,"Kartika, Krishna Chaturdashi"
+2026-11-07,Hanuman Puja,major,"Kartika, Krishna Chaturdashi"
+2026-11-07,Masik Shivaratri,major,"Kartika, Krishna Chaturdashi"
+2026-11-08,Lakshmi Puja,major,"Kartika, Krishna Amavasya"
+2026-11-08,Narak Chaturdashi,major,"Kartika, Krishna Chaturdashi"
+2026-11-08,Kedar Gauri Vrat,major,"Kartika, Krishna Amavasya"
+2026-11-08,Tamil Deepavali,major,"Kartika, Krishna Chaturdashi"
+2026-11-08,Diwali,major,"Kartika, Krishna Amavasya"
+2026-11-08,Chopda Puja,major,"Kartika, Krishna Amavasya"
+2026-11-08,Sharda Puja,major,"Kartika, Krishna Amavasya"
+2026-11-08,Kali Puja,major,"Kartika, Krishna Amavasya"
+2026-11-08,Deepamalika,major,"</div></div><a href=""/hindu-goddesses/parvati/mahavidya/kamala/jayanti/goddess-kamala-jayanti-date.html?year=2026"" class=""dpEvent""><div class=""dpEventImage""><div class=""dpEmbeddedContainer dpRatio3By2""><img src=""/images/festivals/180x120/xfest_placeholder.png.pagespeed.ic.AarGgNmKoj.png"" data-srcset=""/images/festivals/180x120/goddess_kamala.jpg 1x, /images/festivals/270x180/goddess_kamala.jpg 2x, /images/festivals/360x240/goddess_kamala.jpg 3x"" class=""dpEmbeddedContainerImg lazy"" alt=""Kamala Jayanti""><noscript><img src=""/images/festivals/180x120/xgoddess_kamala.jpg.pagespeed.ic.XEmR-1bsnj.jpg"" class=""dpEmbeddedContainerImg"" alt=""Kamala Jayanti""></noscript></div></div><div class=""dpEventInfo""><div class=""dpEventName dpHinduEventColor"">Kamala Jayanti</div><div class=""dpEventGregDate"">November 8, 2026, Sunday</div>Kartika, Krishna Amavasya"
+2026-11-08,Darsha Amavasya,amavasya,"Kartika, Krishna Amavasya"
+2026-11-09,Anvadhan,major,"Kartika, Krishna Chaturdashi"
+2026-11-09,Kartika Amavasya,amavasya,"Margashirsha, Krishna Amavasya"
+2026-11-10,Govardhan Puja,major,"Kartika, Shukla Pratipada"
+2026-11-10,Annakut,major,"Kartika, Shukla Pratipada"
+2026-11-10,Bali Pratipada,major,"Kartika, Shukla Pratipada"
+2026-11-10,Dyuta Krida,major,"Kartika, Shukla Pratipada"
+2026-11-10,Gujarati New Year,major,"Kartika, Shukla Pratipada"
+2026-11-10,Ishti,major,"Kartika, Krishna Amavasya"
+2026-11-11,Bhaiya Dooj,major,"Kartika, Shukla Dwitiya"
+2026-11-11,Yama Dwitiya,major,"Kartika, Shukla Dwitiya"
+2026-11-11,Chitragupta Puja,major,"Kartika, Shukla Dwitiya"
+2026-11-11,Chandra Darshana,major,"Kartika, Shukla Pratipada"
+2026-11-13,Nagula Chavithi,major,"Kartika, Shukla Chaturthi"
+2026-11-13,Labh Chaturthi,major,"Kartika, Shukla Chaturthi"
+2026-11-14,Labh Panchami,major,"Kartika, Shukla Panchami"
+2026-11-14,Nehru Jayanti,major,fixed day in Gregorian calendar
+2026-11-14,Children's Day,major,fixed day in Gregorian calendar
+2026-11-15,Soora Samharam,major,"Kartika, Shukla Shashthi"
+2026-11-15,Chhath Puja,major,"Kartika, Shukla Shashthi"
+2026-11-15,Skanda Sashti,major,"Kartika, Shukla Shashthi"
+2026-11-16,Jalaram Bapa Jayanti,major,"Kartika, Shukla Saptami</div></div><a href=""/sankranti/vrischika-sankranti-date-time.html?year=2026"" class=""dpEvent""><div class=""dpEventImage""><div class=""dpEmbeddedContainer dpRatio3By2""><img src=""/images/festivals/180x120/xfest_placeholder.png.pagespeed.ic.AarGgNmKoj.png"" data-srcset=""/images/festivals/180x120/vrischika_sankranti.jpg 1x, /images/festivals/270x180/vrischika_sankranti.jpg 2x, /images/festivals/360x240/vrischika_sankranti.jpg 3x"" class=""dpEmbeddedContainerImg lazy"" alt=""Vrishchika Sankranti""><noscript><img src=""/images/festivals/180x120/xvrischika_sankranti.jpg.pagespeed.ic.gdvuM9uQr5.jpg"" class=""dpEmbeddedContainerImg"" alt=""Vrishchika Sankranti""></noscript></div></div><div class=""dpEventInfo""><div class=""dpEventName dpHinduEventColor"">Vrishchika Sankranti</div><div class=""dpEventGregDate"">November 16, 2026, Monday</div>Tula to Vrishchika transit of Sun"
+2026-11-16,Kartika Ashtahnika Begins,major,based on Jain calendar
+2026-11-17,Gopashtami,major,"Kartika, Shukla Ashtami"
+2026-11-17,Mandala Pooja Begins,major,based on Malayalam calendar
+2026-11-17,Masik Durgashtami,major,"Kartika, Shukla Ashtami"
+2026-11-18,Akshaya Navami,major,"Kartika, Shukla Navami"
+2026-11-18,Jagaddhatri Puja,major,"Kartika, Shukla Navami"
+2026-11-18,Sata Yuga Diwas,major,"Kartika, Shukla Navami"
+2026-11-20,Kansa Vadh,major,"Kartika, Shukla Dashami"
+2026-11-20,Bhishma Panchak Begins,major,"Kartika, Shukla Ekadashi"
+2026-11-20,Devutthana Ekadashi,ekadashi,"Kartika, Shukla Ekadashi"
+2026-11-21,Yogeshwara Dwadashi,major,"Kartika, Shukla Dwadashi"
+2026-11-21,Tulasi Vivah,major,"Kartika, Shukla Dwadashi"
+2026-11-21,Guruvayur Ekadashi,ekadashi,based on Solar calendar
+2026-11-21,Gauna Devutthana Ekadashi,ekadashi,"Kartika, Shukla Ekadashi"
+2026-11-21,Vaishnava Devutthana Ekadashi,ekadashi,"Kartika, Shukla Ekadashi"
+2026-11-21,Tamasa Manvadi,major,"Kartika, Shukla Dwadashi"
+2026-11-22,Vishweshwara Vrat,major,"Kartika, Shukla Chaturdashi"
+2026-11-22,Ravi Pradosh Vrat,vrat,"Kartika, Shukla Trayodashi"
+2026-11-23,Vaikuntha Chaturdashi,major,"Kartika, Shukla Chaturdashi"
+2026-11-23,Manikarnika Snan,major,"Kartika, Shukla Chaturdashi"
+2026-11-23,Kartika Chaumasi Chaudas,major,based on Jain calendar
+2026-11-24,Dev Diwali,major,"Kartika, Shukla Purnima"
+2026-11-24,Bhishma Panchak Ends,major,"Kartika, Shukla Purnima"
+2026-11-24,Guru Nanak Jayanti,major,"Kartika, Shukla Purnima"
+2026-11-24,Pushkara Snana,major,"Kartika, Shukla Purnima"
+2026-11-24,Karthigai Deepam,major,based on Solar calendar
+2026-11-24,Kartika Ashtahnika Ends,major,based on Jain calendar
+2026-11-24,Kartika Ratha Yatra,major,based on Jain calendar
+2026-11-24,Kartika Purnima Vrat,purnima,"Kartika, Shukla Purnima"
+2026-11-24,Kartika Purnima,purnima,"Kartika, Shukla Purnima"
+2026-11-24,Anvadhan,major,"Kartika, Shukla Chaturdashi"
+2026-11-24,Uttama Manvadi,major,"Kartika, Shukla Purnima"
+2026-11-25,Margashirsha Begins *North,major,"Pausha, Krishna Pratipada"
+2026-11-25,Rohini Vrat,major,based on Jain calendar
+2026-11-25,Ishti,major,"Kartika, Shukla Purnima"
+2026-11-27,Ganadhipa Sankashti,vrat,"Margashirsha, Krishna Chaturthi"
+2026-12-01,Kalabhairav Jayanti,major,"Margashirsha, Krishna Ashtami"
+2026-12-01,World AIDS Day,major,fixed day in Gregorian calendar
+2026-12-01,Kalashtami,major,"Margashirsha, Krishna Ashtami"
+2026-12-01,Masik Krishna Janmashtami,major,"Margashirsha, Krishna Ashtami"
+2026-12-04,Utpanna Ekadashi,ekadashi,"Margashirsha, Krishna Ekadashi"
+2026-12-05,Krishna Yogeshwara Dwadashi,major,"Margashirsha, Krishna Dwadashi"
+2026-12-06,Ravi Pradosh Vrat,vrat,"Margashirsha, Krishna Trayodashi"
+2026-12-07,Bala Jayanti,major,"Margashirsha, Krishna Chaturdashi"
+2026-12-07,Masik Shivaratri,major,"Margashirsha, Krishna Chaturdashi"
+2026-12-08,Darsha Amavasya,amavasya,"Margashirsha, Krishna Amavasya"
+2026-12-08,Anvadhan,major,"Margashirsha, Krishna Chaturdashi"
+2026-12-08,Margashirsha Amavasya,amavasya,"Pausha, Krishna Amavasya"
+2026-12-09,Ishti,major,"Margashirsha, Krishna Amavasya"
+2026-12-10,Chandra Darshana,major,"Margashirsha, Shukla Pratipada"
+2026-12-13,Krichchhra Chaturthi,major,"Margashirsha, Shukla Chaturthi"
+2026-12-14,Vivah Panchami,major,"Margashirsha, Shukla Panchami"
+2026-12-14,Naga Panchami *Telugu,major,"Margashirsha, Shukla Panchami"
+2026-12-15,Subrahmanya Sashti,major,"Margashirsha, Shukla Shashthi"
+2026-12-15,Champa Shashthi,major,"Margashirsha, Shukla Shashthi"
+2026-12-15,Skanda Sashti,major,"Margashirsha, Shukla Shashthi"
+2026-12-16,Dhanu Sankranti,major,Vrishchika to Dhanu transit of Sun
+2026-12-17,Masik Durgashtami,major,"Margashirsha, Shukla Ashtami"
+2026-12-20,Gita Jayanti,major,"Margashirsha, Shukla Ekadashi"
+2026-12-20,Vaikuntha Ekadashi,ekadashi,based on Solar calendar
+2026-12-20,Mokshada Ekadashi,ekadashi,"Margashirsha, Shukla Ekadashi"
+2026-12-21,Matsya Dwadashi,major,"Margashirsha, Shukla Dwadashi"
+2026-12-21,Masik Karthigai,major,based on Solar calendar
+2026-12-21,Soma Pradosh Vrat,vrat,"Margashirsha, Shukla Trayodashi"
+2026-12-22,Hanuman Jayanti *Kannada,major,"Margashirsha, Shukla Trayodashi"
+2026-12-22,Shortest Day of Year,major,Astronomy Event
+2026-12-23,Dattatreya Jayanti,major,"Margashirsha, Shukla Purnima"
+2026-12-23,Annapurna Jayanti,major,"Margashirsha, Shukla Purnima"
+2026-12-23,Bhairavi Jayanti,major,"Margashirsha, Shukla Purnima"
+2026-12-23,Rohini Vrat,major,based on Jain calendar
+2026-12-23,Margashirsha Purnima Vrat,purnima,"Margashirsha, Shukla Purnima"
+2026-12-23,Margashirsha Purnima,purnima,"Margashirsha, Shukla Purnima"
+2026-12-23,Anvadhan,major,"Margashirsha, Shukla Chaturdashi"
+2026-12-24,Pausha Begins *North,major,"Magha, Krishna Pratipada"
+2026-12-24,Arudra Darshan,major,based on Tamil calendar
+2026-12-24,Ishti,major,"Margashirsha, Shukla Purnima"
+2026-12-26,Akhuratha Sankashti,vrat,"Pausha, Krishna Chaturthi"
+2026-12-27,Mandala Pooja,major,based on Malayalam calendar
+2026-12-30,Kalashtami,major,"Pausha, Krishna Ashtami"
+2026-12-30,Masik Krishna Janmashtami,major,"Pausha, Krishna Ashtami"
+2027-01-03,Saphala Ekadashi,ekadashi,"Pausha, Krishna Ekadashi"
+2027-01-04,Krishna Matsya Dwadashi,major,"Pausha, Krishna Dwadashi"
+2027-01-05,Bhauma Pradosh Vrat,vrat,"Pausha, Krishna Trayodashi"
+2027-01-05,Masik Shivaratri,major,"Pausha, Krishna Chaturdashi"
+2027-01-07,Hanuman Jayanti *Tamil,major,"Pausha, Krishna Amavasya"
+2027-01-07,Darsha Amavasya,amavasya,"Pausha, Krishna Amavasya"
+2027-01-07,Anvadhan,major,"Pausha, Krishna Chaturdashi"
+2027-01-07,Pausha Amavasya,amavasya,"Magha, Krishna Amavasya"
+2027-01-08,Ishti,major,"Pausha, Krishna Amavasya"
+2027-01-09,Chandra Darshana,major,"Pausha, Shukla Pratipada"
+2027-01-11,Vighneshvara Chaturthi,major,"Pausha, Shukla Chaturthi"
+2027-01-12,Swami Vivekananda Jayanti,major,fixed day in Gregorian calendar
+2027-01-12,National Youth Day,major,fixed day in Gregorian calendar
+2027-01-13,Skanda Sashti,major,"Pausha, Shukla Shashthi"
+2027-01-14,Bhogi Pandigai,major,based on Solar calendar
+2027-01-14,Lohri,major,day before Makara Sankranti
+2027-01-15,Guru Gobind Singh Jayanti,major,"Pausha, Shukla Saptami"
+2027-01-15,Makara Sankranti,major,Dhanu to Makara transit of Sun
+2027-01-15,Pongal,major,on Makara Sankranti day
+2027-01-15,Uttarayana,major,based on Solar calendar
+2027-01-15,Makaravilakku,major,based on Solar calendar
+2027-01-15,Magh Bihu,major,based on Solar calendar
+2027-01-16,Banada Ashtami,major,"Pausha, Shukla Ashtami"
+2027-01-16,Mattu Pongal,major,based on Solar calendar
+2027-01-16,Masik Durgashtami,major,"Pausha, Shukla Ashtami"
+2027-01-18,Masik Karthigai,major,based on Solar calendar
+2027-01-18,Pausha Putrada Ekadashi,ekadashi,"Pausha, Shukla Ekadashi"
+2027-01-18,Dharma Savarni Manvadi,major,"Pausha, Shukla Ekadashi"
+2027-01-19,Kurma Dwadashi,major,"Pausha, Shukla Dwadashi"
+2027-01-19,Tailang Swami Jayanti,major,"Pausha, Shukla Ekadashi"
+2027-01-19,Rohini Vrat,major,based on Jain calendar
+2027-01-19,Gauna Pausha Putrada Ekadashi,ekadashi,"Pausha, Shukla Ekadashi"
+2027-01-19,Vaishnava Pausha Putrada Ekadashi,ekadashi,"Pausha, Shukla Ekadashi"
+2027-01-20,Budha Pradosh Vrat,vrat,"Pausha, Shukla Trayodashi"
+2027-01-22,Shakambhari Purnima,purnima,"Pausha, Shukla Purnima"
+2027-01-22,Thai Pusam,major,based on Tamil calendar
+2027-01-22,Ramalala Pratishtha Diwas,major,fixed day in Gregorian calendar
+2027-01-22,Pausha Purnima Vrat,purnima,"Pausha, Shukla Purnima"
+2027-01-22,Pausha Purnima,purnima,"Pausha, Shukla Purnima"
+2027-01-22,Anvadhan,major,"Pausha, Shukla Chaturdashi"
+2027-01-23,Magha Begins *North,major,"Phalguna, Krishna Pratipada"
+2027-01-23,Subhas Chandra Bose Jayanti,major,fixed day in Gregorian calendar
+2027-01-23,Ishti,major,"Pausha, Shukla Purnima"
+2027-01-25,Sakat Chauth,major,"Magha, Krishna Chaturthi"
+2027-01-25,Lambodara Sankashti,vrat,"Magha, Krishna Chaturthi"
+2027-01-26,Republic Day,major,fixed day in Gregorian calendar
+2027-01-28,Vivekananda Jayanti *Samvat,major,"Magha, Krishna Saptami"
+2027-01-29,Kalashtami,major,"Magha, Krishna Ashtami"
+2027-01-29,Masik Krishna Janmashtami,major,"Magha, Krishna Ashtami"
+2027-01-30,Gandhi Punyatithi,major,fixed day in Gregorian calendar
+2027-02-02,Krishna Kurma Dwadashi,major,"Magha, Krishna Dwadashi"
+2027-02-02,Shattila Ekadashi,ekadashi,"Magha, Krishna Ekadashi"
+2027-02-03,Budha Pradosh Vrat,vrat,"Magha, Krishna Trayodashi"
+2027-02-04,Meru Trayodashi,major,based on Jain calendar
+2027-02-04,World Cancer Day,major,fixed day in Gregorian calendar
+2027-02-04,Masik Shivaratri,major,"Magha, Krishna Chaturdashi"
+2027-02-06,Mauni Amavas,major,"Magha, Krishna Amavasya"
+2027-02-06,Thai Amavasai,major,based on Tamil calendar
+2027-02-06,Surya Grahan *Valayakara,major,occurs during Amavasya
+2027-02-06,Darsha Amavasya,amavasya,"Magha, Krishna Amavasya"
+2027-02-06,Anvadhan,major,"Magha, Krishna Chaturdashi"
+2027-02-06,Magha Amavasya,amavasya,"Phalguna, Krishna Amavasya"
+2027-02-07,Magha Navratri,major,"Magha, Shukla Pratipada"
+2027-02-07,Ishti,major,"Magha, Krishna Amavasya"
+2027-02-08,Chandra Darshana,major,"Magha, Shukla Pratipada"
+2027-02-10,Ganesha Jayanti,major,"Magha, Shukla Chaturthi"
+2027-02-10,Gauriganesha Chaturthi,major,"Magha, Shukla Chaturthi"
+2027-02-11,Vasant Panchami,major,"Magha, Shukla Panchami"
+2027-02-11,Saraswati Jayanti,major,"Magha, Shukla Panchami"
+2027-02-12,Skanda Sashti,major,"Magha, Shukla Shashthi"
+2027-02-13,Ratha Saptami,major,"Magha, Shukla Saptami"
+2027-02-13,Narmada Jayanti,major,"Magha, Shukla Saptami"
+2027-02-13,Kumbha Sankranti,major,Makara to Kumbha transit of Sun
+2027-02-13,Brahma Savarni Manvadi,major,"Magha, Shukla Saptami"
+2027-02-14,Bhishma Ashtami,major,"Magha, Shukla Ashtami"
+2027-02-14,Masik Karthigai,major,based on Solar calendar
+2027-02-14,Valentine's Day,major,fixed day in Gregorian calendar
+2027-02-14,Masik Durgashtami,major,"Magha, Shukla Ashtami"
+2027-02-15,Rohini Vrat,major,based on Jain calendar
+2027-02-17,Jaya Ekadashi,ekadashi,"Magha, Shukla Ekadashi"
+2027-02-18,Bhishma Dwadashi,major,"Magha, Shukla Dwadashi"
+2027-02-18,Guru Pradosh Vrat,vrat,"Magha, Shukla Trayodashi"
+2027-02-19,Chhatrapati Shivaji Maharaj Jayanti,major,fixed day in Gregorian calendar
+2027-02-20,Guru Ravidas Jayanti,major,"Magha, Shukla Purnima"
+2027-02-20,Lalita Jayanti,major,"Magha, Shukla Purnima"
+2027-02-20,Masi Magam,major,based on Tamil calendar
+2027-02-20,Magha Purnima Vrat,purnima,"Magha, Shukla Purnima"
+2027-02-20,Magha Purnima,purnima,"Magha, Shukla Purnima"
+2027-02-20,Anvadhan,major,"Magha, Shukla Chaturdashi"
+2027-02-21,Phalguna Begins *North,major,"Chaitra, Krishna Pratipada"
+2027-02-21,Chandra Grahan *Upachchaya,major,occurs during Purnima
+2027-02-21,Ishti,major,"Magha, Shukla Purnima"
+2027-02-22,Attukal Pongal,major,based on Malayalam calendar
+2027-02-24,Dwijapriya Sankashti,vrat,"Phalguna, Krishna Chaturthi"
+2027-02-26,Yashoda Jayanti,major,"Phalguna, Krishna Shashthi"
+2027-02-27,Shabari Jayanti,major,"Phalguna, Krishna Saptami"
+2027-02-27,Masik Krishna Janmashtami,major,"Phalguna, Krishna Ashtami"
+2027-02-28,Janaki Jayanti,major,"Phalguna, Krishna Ashtami"
+2027-02-28,Kalashtami,major,"Phalguna, Krishna Ashtami"
+2027-03-02,Maharishi Dayanand Saraswati Jayanti,major,"Phalguna, Krishna Dashami"
+2027-03-04,Vijaya Ekadashi,ekadashi,"Phalguna, Krishna Ekadashi"
+2027-03-05,Krishna Bhishma Dwadashi,major,"Phalguna, Krishna Dwadashi"
+2027-03-05,Shukra Pradosh Vrat,vrat,"Phalguna, Krishna Trayodashi"
+2027-03-06,Maha Shivaratri,major,"Phalguna, Krishna Chaturdashi"
+2027-03-06,Masik Shivaratri,major,"Phalguna, Krishna Chaturdashi"
+2027-03-07,Darsha Amavasya,amavasya,"Phalguna, Krishna Amavasya"
+2027-03-07,Dwapara Yuga Diwas,major,"Phalguna, Krishna Amavasya"
+2027-03-08,Somavati Amavasya,amavasya,"Phalguna, Krishna Amavasya"
+2027-03-08,International Women's Day,major,fixed day in Gregorian calendar
+2027-03-08,Anvadhan,major,"Phalguna, Krishna Chaturdashi"
+2027-03-08,Phalguna Amavasya,amavasya,"Chaitra, Krishna Amavasya"
+2027-03-09,Ishti,major,"Phalguna, Krishna Amavasya"
+2027-03-09,Chandra Darshana,major,"Phalguna, Shukla Pratipada"
+2027-03-10,Phulera Dooj,major,"Phalguna, Shukla Dwitiya"
+2027-03-10,Ramakrishna Jayanti,major,"Phalguna, Shukla Dwitiya"
+2027-03-12,Dhundhiraja Chaturthi,major,"Phalguna, Shukla Chaturthi"
+2027-03-13,Masik Karthigai,major,based on Solar calendar
+2027-03-13,Skanda Sashti,major,"Phalguna, Shukla Shashthi"
+2027-03-15,Meena Sankranti,major,Kumbha to Meena transit of Sun
+2027-03-15,Karadaiyan Nombu,major,based on Tamil calendar
+2027-03-15,Rohini Vrat,major,based on Jain calendar
+2027-03-15,Phalguna Ashtahnika Begins,major,based on Jain calendar
+2027-03-16,Masik Durgashtami,major,"Phalguna, Shukla Ashtami"
+2027-03-18,Amalaki Ekadashi,ekadashi,"Phalguna, Shukla Ekadashi"
+2027-03-19,Narasimha Dwadashi,major,"Phalguna, Shukla Dwadashi"
+2027-03-20,Shani Trayodashi,major,"Phalguna, Shukla Trayodashi"
+2027-03-20,Shani Pradosh Vrat,vrat,"Phalguna, Shukla Trayodashi"
+2027-03-21,Chhoti Holi,major,"Phalguna, Shukla Purnima"
+2027-03-21,Holika Dahan,major,"Phalguna, Shukla Purnima"
+2027-03-21,Vernal Equinox,major,Astronomy Event
+2027-03-21,Phalguna Chaumasi Chaudas,major,based on Jain calendar
+2027-03-22,Vasanta Purnima,purnima,"Phalguna, Shukla Purnima"
+2027-03-22,Chaitanya Mahaprabhu Jayanti,major,"Phalguna, Shukla Purnima"
+2027-03-22,Holi,major,"Chaitra, Krishna Pratipada"
+2027-03-22,Dol Purnima,purnima,"Phalguna, Shukla Purnima"
+2027-03-22,Lakshmi Jayanti,major,"Phalguna, Shukla Purnima"
+2027-03-22,Panguni Uthiram,major,Uthiram Nakshatram in Panguni month
+2027-03-22,Phalguna Ashtahnika Ends,major,based on Jain calendar
+2027-03-22,Phalguna Purnima Vrat,purnima,"Phalguna, Shukla Purnima"
+2027-03-22,Phalguna Purnima,purnima,"Phalguna, Shukla Purnima"
+2027-03-22,Anvadhan,major,"Phalguna, Shukla Chaturdashi"
+2027-03-22,Savarni Manvadi,major,"Phalguna, Shukla Purnima"
+2027-03-23,Chaitra Begins *North,major,"Vaishakha, Krishna Pratipada"
+2027-03-23,Shaheed Diwas,major,fixed day in Gregorian calendar
+2027-03-23,Ishti,major,"Phalguna, Shukla Purnima"
+2027-03-24,Bhai Dooj,major,"Chaitra, Krishna Dwitiya"
+2027-03-24,Bhratri Dwitiya,major,"Chaitra, Krishna Dwitiya"
+2027-03-25,Chhatrapati Shivaji Maharaj Jayanti,major,"Chaitra, Krishna Tritiya"
+2027-03-25,Bhalachandra Sankashti,vrat,"Chaitra, Krishna Chaturthi"
+2027-03-27,Ranga Panchami,major,"Chaitra, Krishna Panchami"
+2027-03-28,Sheetala Saptami,major,"Chaitra, Krishna Saptami"
+2027-03-29,Kalashtami,major,"Chaitra, Krishna Ashtami"
+2027-03-29,Masik Krishna Janmashtami,major,"Chaitra, Krishna Ashtami"
+2027-03-30,Sheetala Ashtami,major,"Chaitra, Krishna Ashtami"
+2027-03-30,Basoda,major,"Chaitra, Krishna Ashtami"
+2027-03-30,Varshitapa Arambha,major,based on Jain calendar
+2027-04-01,Bank's Holiday,major,fixed day in Gregorian calendar
+2027-04-02,Krishna Narasimha Dwadashi,major,"Chaitra, Krishna Dwadashi"
+2027-04-02,Papamochani Ekadashi,ekadashi,"Chaitra, Krishna Ekadashi"
+2027-04-04,Ravi Pradosh Vrat,vrat,"Chaitra, Krishna Trayodashi"
+2027-04-05,Masik Shivaratri,major,"Chaitra, Krishna Chaturdashi"
+2027-04-06,Chaitra Amavasya,amavasya,"Vaishakha, Krishna Amavasya"
+2027-04-06,Darsha Amavasya,amavasya,"Chaitra, Krishna Amavasya"
+2027-04-06,Anvadhan,major,"Chaitra, Krishna Chaturdashi"
+2027-04-07,Ugadi,major,"Chaitra, Shukla Pratipada"
+2027-04-07,Gudi Padwa,major,"Chaitra, Shukla Pratipada"
+2027-04-07,Chaitra Navratri,major,"Chaitra, Shukla Pratipada"
+2027-04-07,Ishti,major,"Chaitra, Krishna Amavasya"
+2027-04-08,Jhulelal Jayanti,major,"Chaitra, Shukla Pratipada/Dwitiya"
+2027-04-08,Chandra Darshana,major,"Chaitra, Shukla Pratipada"
+2027-04-09,Matsya Jayanti,major,"Chaitra, Shukla Tritiya"
+2027-04-09,Gauri Puja,major,"Chaitra, Shukla Tritiya"
+2027-04-09,Gangaur,major,"Chaitra, Shukla Tritiya"
+2027-04-09,Masik Karthigai,major,based on Solar calendar
+2027-04-09,Swayambhuva Manvadi,major,"Chaitra, Shukla Tritiya"
+2027-04-10,Vasudeva Chaturthi,major,"Chaitra, Shukla Chaturthi"
+2027-04-11,Lakshmi Panchami,major,"Chaitra, Shukla Panchami"
+2027-04-11,Rohini Vrat,major,based on Jain calendar
+2027-04-12,Yamuna Chhath,major,"Chaitra, Shukla Shashthi"
+2027-04-12,Skanda Sashti,major,"Chaitra, Shukla Shashthi"
+2027-04-13,Chaitra Navapada Oli Begins,major,based on Jain calendar
+2027-04-14,Tara Jayanti,major,"Chaitra, Shukla Navami"
+2027-04-14,Ashoka Ashtami Vrat,major,"Chaitra, Shukla Ashtami"
+2027-04-14,Mesha Sankranti,major,Meena to Mesha transit of Sun
+2027-04-14,Solar New Year,major,first day of Hindu Solar calendar
+2027-04-14,Puthandu,major,based on Solar calendar
+2027-04-14,Ambedkar Jayanti,major,fixed day in Gregorian calendar
+2027-04-14,Baisakhi,major,observed on Mesha Sankranti
+2027-04-14,Masik Durgashtami,major,"Chaitra, Shukla Ashtami"
+2027-04-15,Rama Navami,major,"Chaitra, Shukla Navami"
+2027-04-15,Swaminarayan Jayanti,major,"Chaitra, Shukla Navami</div></div><a href=""/festivals/vishu/vishu-kani-date-time.html?year=2027"" class=""dpEvent""><div class=""dpEventImage""><div class=""dpEmbeddedContainer dpRatio3By2""><img src=""/images/festivals/180x120/xfest_placeholder.png.pagespeed.ic.AarGgNmKoj.png"" data-srcset=""/images/festivals/180x120/vishu_kani.jpg 1x, /images/festivals/270x180/vishu_kani.jpg 2x, /images/festivals/360x240/vishu_kani.jpg 3x"" class=""dpEmbeddedContainerImg lazy"" alt=""Vishu Kani""><noscript><img src=""/images/festivals/180x120/xvishu_kani.jpg.pagespeed.ic.NjLp_b6ef8.jpg"" class=""dpEmbeddedContainerImg"" alt=""Vishu Kani""></noscript></div></div><div class=""dpEventInfo""><div class=""dpEventName dpHinduEventColor"">Vishu Kani</div><div class=""dpEventGregDate"">April 15, 2027, Thursday</div>based on Solar calendar"
+2027-04-15,Pohela Boishakha,major,first day of Bengali calendar
+2027-04-17,Vamana Dwadashi,major,"Chaitra, Shukla Dwadashi"
+2027-04-17,Thrissur Pooram,major,based on Malayalam calendar
+2027-04-17,Kamada Ekadashi,ekadashi,"Chaitra, Shukla Ekadashi"
+2027-04-18,Ravi Pradosh Vrat,vrat,"Chaitra, Shukla Trayodashi"
+2027-04-19,Mahavir Swami Jayanti,major,"Chaitra, Shukla Trayodashi"
+2027-04-20,Hanuman Jayanti,major,"Chaitra, Shukla Purnima"
+2027-04-20,Hanuman Janmotsava,major,"Chaitra, Shukla Purnima"
+2027-04-20,Chitra Pournami,major,based on Solar calendar
+2027-04-20,Chaitra Navapada Oli Ends,major,based on Jain calendar
+2027-04-20,Chaitra Purnima Vrat,purnima,"Chaitra, Shukla Purnima"
+2027-04-20,Chaitra Purnima,purnima,"Chaitra, Shukla Purnima"
+2027-04-20,Anvadhan,major,"Chaitra, Shukla Chaturdashi"
+2027-04-20,Swarochisha Manvadi,major,"Chaitra, Shukla Purnima"
+2027-04-21,Vaishakha Begins *North,major,"Jyeshtha, Krishna Pratipada"
+2027-04-21,Ishti,major,"Chaitra, Shukla Purnima"
+2027-04-22,Earth Day,major,fixed day in Gregorian calendar
+2027-04-24,Vikata Sankashti,vrat,"Vaishakha, Krishna Chaturthi"
+2027-04-28,Kalashtami,major,"Vaishakha, Krishna Ashtami"
+2027-04-28,Masik Krishna Janmashtami,major,"Vaishakha, Krishna Ashtami"
+2027-05-01,International Workers' Day,major,fixed day in Gregorian calendar
+2027-05-02,Vallabhacharya Jayanti,major,"Vaishakha, Krishna Ekadashi"
+2027-05-02,World Laughter Day,major,1st Sunday of May
+2027-05-02,Varuthini Ekadashi,ekadashi,"Vaishakha, Krishna Ekadashi"
+2027-05-03,Krishna Vamana Dwadashi,major,"Vaishakha, Krishna Dwadashi"
+2027-05-03,Soma Pradosh Vrat,vrat,"Vaishakha, Krishna Trayodashi"
+2027-05-04,Kubjika Jayanti,major,"Vaishakha, Krishna Trayodashi"
+2027-05-04,Agni Nakshatram Begins,major,based on Solar calendar
+2027-05-04,Masik Shivaratri,major,"Vaishakha, Krishna Chaturdashi"
+2027-05-06,Darsha Amavasya,amavasya,"Vaishakha, Krishna Amavasya"
+2027-05-06,Anvadhan,major,"Vaishakha, Krishna Chaturdashi"
+2027-05-06,Vaishakha Amavasya,amavasya,"Jyeshtha, Krishna Amavasya"
+2027-05-07,Parashara Rishi Jayanti,major,"Vaishakha, Shukla Pratipada"
+2027-05-07,Masik Karthigai,major,based on Solar calendar
+2027-05-07,Rabindranath Tagore Jayanti,major,fixed day in Gregorian calendar
+2027-05-07,Ishti,major,"Vaishakha, Krishna Amavasya"
+2027-05-07,Chandra Darshana,major,"Vaishakha, Shukla Pratipada"
+2027-05-08,Parashurama Jayanti,major,"Vaishakha, Shukla Tritiya"
+2027-05-08,Rohini Vrat,major,based on Jain calendar
+2027-05-09,Akshaya Tritiya,major,"Vaishakha, Shukla Tritiya"
+2027-05-09,Matangi Jayanti,major,"Vaishakha, Shukla Tritiya"
+2027-05-09,Tagore Jayanti *Bengal,major,based on Bengali calendar
+2027-05-09,Varshitapa Parana,major,based on Jain calendar
+2027-05-09,Mother's Day,major,2nd Sunday of May
+2027-05-09,Sankarshana Chaturthi,major,"Vaishakha, Shukla Chaturthi"
+2027-05-09,Treta Yuga Diwas,major,"Vaishakha, Shukla Tritiya"
+2027-05-10,Shankaracharya Jayanti,major,"Vaishakha, Shukla Panchami"
+2027-05-10,Surdas Jayanti,major,"Vaishakha, Shukla Panchami"
+2027-05-10,Ramanuja Jayanti,major,based on Solar calendar
+2027-05-11,Skanda Sashti,major,"Vaishakha, Shukla Shashthi"
+2027-05-12,Ganga Saptami,major,"Vaishakha, Shukla Saptami"
+2027-05-13,Bagalamukhi Jayanti,major,"Vaishakha, Shukla Ashtami"
+2027-05-13,Masik Durgashtami,major,"Vaishakha, Shukla Ashtami"
+2027-05-14,Sita Navami,major,"Vaishakha, Shukla Navami"
+2027-05-15,Vrishabha Sankranti,major,Mesha to Vrishabha transit of Sun
+2027-05-15,Mahavira Swami Kevalagyan,major,based on Jain calendar
+2027-05-16,Parashurama Dwadashi,major,"Vaishakha, Shukla Dwadashi"
+2027-05-16,Siddhilakshmi Jayanti,major,"Vaishakha, Shukla Ekadashi"
+2027-05-16,Mohini Ekadashi,ekadashi,"Vaishakha, Shukla Ekadashi"
+2027-05-17,Soma Pradosh Vrat,vrat,"Vaishakha, Shukla Trayodashi"
+2027-05-18,Narasimha Jayanti,major,"Vaishakha, Shukla Chaturdashi"
+2027-05-18,Chhinnamasta Jayanti,major,"Vaishakha, Shukla Chaturdashi"
+2027-05-19,Kurma Jayanti,major,"Vaishakha, Shukla Purnima"
+2027-05-20,Buddha Purnima,purnima,"Vaishakha, Shukla Purnima"
+2027-05-20,Chandika Jayanti,major,"Vaishakha, Shukla Purnima"
+2027-05-20,Vaikasi Visakam,major,"Vrishabha Masam, Vishakha Nakshatra"
+2027-05-20,Vaishakha Purnima Vrat,purnima,"Vaishakha, Shukla Purnima"
+2027-05-20,Vaishakha Purnima,purnima,"Vaishakha, Shukla Purnima"
+2027-05-20,Anvadhan,major,"Vaishakha, Shukla Chaturdashi"
+2027-05-21,Narada Jayanti,major,"Jyeshtha, Krishna Pratipada"
+2027-05-21,Jyeshtha Begins *North,major,"Ashadha, Krishna Pratipada"
+2027-05-21,Ishti,major,"Vaishakha, Shukla Purnima"
+2027-05-23,Ekadanta Sankashti,vrat,"Jyeshtha, Krishna Chaturthi"
+2027-05-28,Kalashtami,major,"Jyeshtha, Krishna Ashtami"
+2027-05-28,Masik Krishna Janmashtami,major,"Jyeshtha, Krishna Ashtami"
+2027-05-29,Agni Nakshatram Ends,major,based on Solar calendar
+2027-05-31,Hanuman Jayanti *Telugu,major,"Jyeshtha, Krishna Dashami"
+2027-05-31,World No Tobacco Day,major,fixed day in Gregorian calendar
+2027-06-01,Krishna Parashurama Dwadashi,major,"Jyeshtha, Krishna Dwadashi"
+2027-06-01,Apara Ekadashi,ekadashi,"Jyeshtha, Krishna Ekadashi"
+2027-06-02,Budha Pradosh Vrat,vrat,"Jyeshtha, Krishna Trayodashi"
+2027-06-03,Masik Karthigai,major,based on Solar calendar
+2027-06-03,Masik Shivaratri,major,"Jyeshtha, Krishna Chaturdashi"
+2027-06-04,Vat Savitri Vrat,major,"Jyeshtha, Krishna Amavasya"
+2027-06-04,Shani Jayanti,major,"Jyeshtha, Krishna Amavasya"
+2027-06-04,Darsha Amavasya,amavasya,"Jyeshtha, Krishna Amavasya"
+2027-06-04,Anvadhan,major,"Jyeshtha, Krishna Chaturdashi"
+2027-06-04,Jyeshtha Amavasya,amavasya,"Ashadha, Krishna Amavasya"
+2027-06-05,Rohini Vrat,major,based on Jain calendar
+2027-06-05,World Environment Day,major,fixed day in Gregorian calendar
+2027-06-05,Ishti,major,"Jyeshtha, Krishna Amavasya"
+2027-06-05,Chandra Darshana,major,"Jyeshtha, Shukla Pratipada"
+2027-06-07,Maharana Pratap Jayanti,major,"Jyeshtha, Shukla Tritiya"
+2027-06-08,Pradyumna Chaturthi,major,"Jyeshtha, Shukla Chaturthi"
+2027-06-09,Skanda Sashti,major,"Jyeshtha, Shukla Shashthi"
+2027-06-10,Jamai Shashti,major,"Jyeshtha, Shukla Shashthi"
+2027-06-11,Dhumavati Jayanti,major,"Jyeshtha, Shukla Ashtami"
+2027-06-11,Masik Durgashtami,major,"Jyeshtha, Shukla Ashtami"
+2027-06-12,Mahesh Navami,major,"Jyeshtha, Shukla Navami"
+2027-06-13,Ganga Dussehra,major,"Jyeshtha, Shukla Dashami"
+2027-06-14,Gayatri Jayanti,major,"Jyeshtha, Shukla Ekadashi"
+2027-06-14,Nirjala Ekadashi,ekadashi,"Jyeshtha, Shukla Ekadashi"
+2027-06-15,Ramalakshmana Dwadashi,major,"Jyeshtha, Shukla Dwadashi"
+2027-06-15,Mithuna Sankranti,major,Vrishabha to Mithuna transit of Sun
+2027-06-16,Budha Pradosh Vrat,vrat,"Jyeshtha, Shukla Trayodashi"
+2027-06-18,Vat Purnima Vrat,purnima,"Jyeshtha, Shukla Purnima"
+2027-06-18,Kabirdas Jayanti,major,"Jyeshtha, Shukla Purnima"
+2027-06-18,Batuka Bhairavi Jayanti,major,"Jyeshtha, Shukla Purnima"
+2027-06-18,Jyeshtha Purnima Vrat,purnima,"Jyeshtha, Shukla Purnima"
+2027-06-18,Jyeshtha Purnima,purnima,"Jyeshtha, Shukla Purnima"
+2027-06-18,Anvadhan,major,"Jyeshtha, Shukla Chaturdashi"
+2027-06-18,Vaivaswata Manvadi,major,"Jyeshtha, Shukla Purnima"
+2027-06-19,Ishti,major,"Jyeshtha, Shukla Purnima"
+2027-06-20,Ashadha Begins *North,major,"Shravana, Krishna Pratipada"
+2027-06-20,Father's Day,major,3rd Sunday of June
+2027-06-21,Longest Day of Year,major,Astronomy Event
+2027-06-21,International Yoga Day,major,fixed day in Gregorian calendar
+2027-06-22,Krishnapingala Sankashti,vrat,"Ashadha, Krishna Chaturthi"
+2027-06-26,Masik Krishna Janmashtami,major,"Ashadha, Krishna Ashtami"
+2027-06-27,Kalashtami,major,"Ashadha, Krishna Ashtami"
+2027-06-30,Yogini Ekadashi,ekadashi,"Ashadha, Krishna Ekadashi"
+2027-07-01,Krishna Ramalakshmana Dwadashi,major,"Ashadha, Krishna Dwadashi"
+2027-07-01,Masik Karthigai,major,based on Solar calendar
+2027-07-01,Guru Pradosh Vrat,vrat,"Ashadha, Krishna Trayodashi"
+2027-07-02,Rohini Vrat,major,based on Jain calendar
+2027-07-02,Masik Shivaratri,major,"Ashadha, Krishna Chaturdashi"
+2027-07-03,Darsha Amavasya,amavasya,"Ashadha, Krishna Amavasya"
+2027-07-03,Anvadhan,major,"Ashadha, Krishna Chaturdashi"
+2027-07-04,Ashadha Navratri,major,"Ashadha, Shukla Pratipada"
+2027-07-04,Ishti,major,"Ashadha, Krishna Amavasya"
+2027-07-04,Ashadha Amavasya,amavasya,"Shravana, Krishna Amavasya"
+2027-07-05,Jagannath Rathyatra,major,"Ashadha, Shukla Dwitiya"
+2027-07-05,Chandra Darshana,major,"Ashadha, Shukla Pratipada"
+2027-07-07,Aniruddha Chaturthi,major,"Ashadha, Shukla Chaturthi"
+2027-07-08,Skanda Sashti,major,"Ashadha, Shukla Shashthi"
+2027-07-10,Ashadha Ashtahnika Begins,major,based on Jain calendar
+2027-07-11,Parvati Jayanti,major,"Ashadha, Shukla Ashtami"
+2027-07-11,Masik Durgashtami,major,"Ashadha, Shukla Ashtami"
+2027-07-12,Bhadali Navami,major,"Ashadha, Shukla Navami"
+2027-07-13,Asha Dashami Vrat,major,"Ashadha, Shukla Dashami"
+2027-07-13,Raivata Manvadi,major,"Ashadha, Shukla Dashami"
+2027-07-14,Vasudeva Dwadashi,major,"Ashadha, Shukla Dwadashi"
+2027-07-14,Gauri Vrat Begins,major,"Ashadha, Shukla Dwadashi"
+2027-07-14,Devshayani Ekadashi,ekadashi,"Ashadha, Shukla Ekadashi"
+2027-07-15,Guru Pradosh Vrat,vrat,"Ashadha, Shukla Trayodashi"
+2027-07-16,Jayaparvati Vrat Begins,major,"Ashadha, Shukla Trayodashi"
+2027-07-17,Kokila Vrat,major,"Ashadha, Shukla Purnima"
+2027-07-17,Karka Sankranti,major,Mithuna to Karka transit of Sun
+2027-07-17,Ashadha Chaumasi Chaudas,major,based on Jain calendar
+2027-07-18,Guru Purnima,purnima,"Ashadha, Shukla Purnima"
+2027-07-18,Vyasa Puja,major,"Ashadha, Shukla Purnima"
+2027-07-18,Gauri Vrat Ends,major,"Ashadha, Shukla Purnima"
+2027-07-18,Dakshinamurti Jayanti,major,"Ashadha, Shukla Purnima"
+2027-07-18,Ashadha Ashtahnika Ends,major,based on Jain calendar
+2027-07-18,Ashadha Purnima Vrat,purnima,"Ashadha, Shukla Purnima"
+2027-07-18,Ashadha Purnima,purnima,"Ashadha, Shukla Purnima"
+2027-07-18,Anvadhan,major,"Ashadha, Shukla Chaturdashi"
+2027-07-18,Chakshusha Manvadi,major,"Ashadha, Shukla Purnima"
+2027-07-19,Shravana Begins *North,major,"Bhadrapada, Krishna Pratipada"
+2027-07-19,First Shravan Somwar Vrat,major,First Monday in Shravana
+2027-07-19,Ishti,major,"Ashadha, Shukla Purnima"
+2027-07-20,First Mangala Gauri Vrat,major,First Tuesday in Shravana
+2027-07-21,Jayaparvati Vrat Ends,major,"Shravana, Krishna Tritiya"
+2027-07-22,Gajanana Sankashti,vrat,"Shravana, Krishna Chaturthi"
+2027-07-26,Second Shravan Somwar Vrat,major,Second Monday in Shravana
+2027-07-26,Kalashtami,major,"Shravana, Krishna Ashtami"
+2027-07-26,Masik Krishna Janmashtami,major,"Shravana, Krishna Ashtami"
+2027-07-27,Second Mangala Gauri Vrat,major,Second Tuesday in Shravana
+2027-07-28,Masik Karthigai,major,based on Solar calendar
+2027-07-29,Rohini Vrat,major,based on Jain calendar
+2027-07-29,Kamika Ekadashi,ekadashi,"Shravana, Krishna Ekadashi"
+2027-07-30,Krishna Vasudeva Dwadashi,major,"Shravana, Krishna Dwadashi"
+2027-07-30,Gauna Kamika Ekadashi,ekadashi,"Shravana, Krishna Ekadashi"
+2027-07-30,Vaishnava Kamika Ekadashi,ekadashi,"Shravana, Krishna Ekadashi"
+2027-07-31,Shani Trayodashi,major,"Shravana, Krishna Trayodashi"
+2027-07-31,Sawan Shivaratri,major,"Shravana, Krishna Chaturdashi"
+2027-07-31,Shani Pradosh Vrat,vrat,"Shravana, Krishna Trayodashi"
+2027-07-31,Masik Shivaratri,major,"Shravana, Krishna Chaturdashi"
+2027-08-01,Friendship Day,major,1st Sunday of August
+2027-08-02,Somavati Amavasya,amavasya,"Shravana, Krishna Amavasya"
+2027-08-02,Hariyali Amavasya,amavasya,"Shravana, Krishna Amavasya"
+2027-08-02,Third Shravan Somwar Vrat,major,Third Monday in Shravana
+2027-08-02,Aadi Amavasai,major,based on Tamil calendar
+2027-08-02,Surya Grahan *Purna,major,occurs during Amavasya
+2027-08-02,Darsha Amavasya,amavasya,"Shravana, Krishna Amavasya"
+2027-08-02,Anvadhan,major,"Shravana, Krishna Chaturdashi"
+2027-08-02,Shravana Amavasya,amavasya,"Bhadrapada, Krishna Amavasya"
+2027-08-03,Third Mangala Gauri Vrat,major,Third Tuesday in Shravana
+2027-08-03,Aadi Perukku,major,18th day of Tamil Aadi Masam
+2027-08-03,Ishti,major,"Shravana, Krishna Amavasya"
+2027-08-03,Chandra Darshana,major,"Shravana, Shukla Pratipada"
+2027-08-04,Hariyali Teej,major,"Shravana, Shukla Tritiya"
+2027-08-05,Andal Jayanthi,major,based on Tamil calendar
+2027-08-05,Durva Ganapati Chaturthi,major,"Shravana, Shukla Chaturthi"
+2027-08-06,Nag Panchami,major,"Shravana, Shukla Panchami"
+2027-08-06,Yajurveda Upakarma,major,
+2027-08-07,Kalki Jayanti,major,"Shravana, Shukla Shashthi"
+2027-08-07,Gayatri Japam,major,
+2027-08-07,Skanda Sashti,major,"Shravana, Shukla Shashthi"
+2027-08-08,Bhanu Saptami,major,"Shravana, Shukla Saptami"
+2027-08-08,Tulsidas Jayanti,major,"Shravana, Shukla Saptami"
+2027-08-09,Fourth Shravan Somwar Vrat,major,Fourth Monday in Shravana
+2027-08-09,Masik Durgashtami,major,"Shravana, Shukla Ashtami"
+2027-08-10,Fourth Mangala Gauri Vrat,major,Fourth Tuesday in Shravana
+2027-08-12,Shravana Putrada Ekadashi,ekadashi,"Shravana, Shukla Ekadashi"
+2027-08-13,Damodara Dwadashi,major,"Shravana, Shukla Dwadashi"
+2027-08-13,Varalakshmi Vrat,major,Friday before Shravana Purnima
+2027-08-14,Shani Trayodashi,major,"Shravana, Shukla Trayodashi"
+2027-08-14,Shani Pradosh Vrat,vrat,"Shravana, Shukla Trayodashi"
+2027-08-15,Independence Day,major,fixed day in Gregorian calendar
+2027-08-16,Fifth Shravan Somwar Vrat,major,Fifth Monday in Shravana
+2027-08-16,Rigveda Upakarma,major,
+2027-08-16,Hayagriva Jayanti,major,"Shravana, Shukla Purnima"
+2027-08-16,Shravana Purnima Vrat,purnima,"Shravana, Shukla Purnima"
+2027-08-17,Raksha Bandhan,major,"Shravana, Shukla Purnima"
+2027-08-17,Rakhi,major,"Shravana, Shukla Purnima"
+2027-08-17,Gayatri Jayanti,major,"Shravana, Shukla Purnima"
+2027-08-17,Fifth Mangala Gauri Vrat,major,Fifth Tuesday in Shravana
+2027-08-17,Narali Purnima,purnima,"Shravana, Shukla Purnima"
+2027-08-17,Sanskrit Diwas,major,"Shravana, Shukla Purnima"
+2027-08-17,Simha Sankranti,major,Karka to Simha transit of Sun
+2027-08-17,Chandra Grahan *Upachchaya,major,occurs during Purnima
+2027-08-17,Shravana Purnima,purnima,"Shravana, Shukla Purnima"
+2027-08-17,Anvadhan,major,"Shravana, Shukla Chaturdashi"
+2027-08-18,Bhadrapada Begins *North,major,"Ashwina, Krishna Pratipada"
+2027-08-18,Malayalam New Year,major,first day of Chingam Masam
+2027-08-18,Ishti,major,"Shravana, Shukla Purnima"
+2027-08-20,Kajari Teej,major,"Bhadrapada, Krishna Tritiya"
+2027-08-20,Maha Sangada Hara Chathurti,major,"Bhadrapada, Krishna Chaturthi"
+2027-08-20,Heramba Sankashti,vrat,"Bhadrapada, Krishna Chaturthi"
+2027-08-21,Bahula Chaturthi,major,"Bhadrapada, Krishna Chaturthi"
+2027-08-22,Nag Pancham,major,"Bhadrapada, Krishna Panchami"
+2027-08-23,Hala Shashthi,major,"Bhadrapada, Krishna Shashthi"
+2027-08-23,Randhan Chhath,major,"Bhadrapada, Krishna Shashthi"
+2027-08-24,Shitala Satam,major,"Bhadrapada, Krishna Saptami"
+2027-08-24,Kali Jayanti,major,"Bhadrapada, Krishna Ashtami"
+2027-08-24,Vindhyavasini Jayanti,major,"Bhadrapada, Krishna Ashtami"
+2027-08-24,Ashtami Rohini,major,based on Solar calendar
+2027-08-24,Masik Karthigai,major,based on Solar calendar
+2027-08-24,Kalashtami,major,"Bhadrapada, Krishna Ashtami"
+2027-08-24,Indra Savarni Manvadi,major,"Bhadrapada, Krishna Ashtami"
+2027-08-25,Krishna Janmashtami,major,"Bhadrapada, Krishna Ashtami"
+2027-08-25,Masik Krishna Janmashtami,major,"Bhadrapada, Krishna Ashtami"
+2027-08-26,Dahi Handi,major,"Bhadrapada, Krishna Navami"
+2027-08-26,Shri Goga Navami,major,"Bhadrapada, Krishna Navami"
+2027-08-26,Rohini Vrat,major,based on Jain calendar
+2027-08-28,Krishna Damodara Dwadashi,major,"Bhadrapada, Krishna Dwadashi"
+2027-08-28,Bachha Baras Dwadashi,major,"Bhadrapada, Krishna Dwadashi"
+2027-08-28,Paryushana Parvarambha,major,based on Jain calendar
+2027-08-28,Aja Ekadashi,ekadashi,"Bhadrapada, Krishna Ekadashi"
+2027-08-29,Ravi Pradosh Vrat,vrat,"Bhadrapada, Krishna Trayodashi"
+2027-08-30,Masik Shivaratri,major,"Bhadrapada, Krishna Chaturdashi"
+2027-08-31,Pithori Amavasya,amavasya,"Bhadrapada, Krishna Amavasya"
+2027-08-31,Pola,major,"Bhadrapada, Krishna Amavasya"
+2027-08-31,Vrishabhotsava,major,"Bhadrapada, Krishna Amavasya"
+2027-08-31,Darsha Amavasya,amavasya,"Bhadrapada, Krishna Amavasya"
+2027-08-31,Anvadhan,major,"Bhadrapada, Krishna Chaturdashi"
+2027-08-31,Bhadrapada Amavasya,amavasya,"Ashwina, Krishna Amavasya"
+2027-08-31,Daiva Savarni Manvadi,major,"Bhadrapada, Krishna Amavasya"
+2027-09-01,Ishti,major,"Bhadrapada, Krishna Amavasya"
+2027-09-02,Chandra Darshana,major,"Bhadrapada, Shukla Pratipada"
+2027-09-03,Varaha Jayanti,major,"Bhadrapada, Shukla Tritiya"
+2027-09-03,Hartalika Teej,major,"Bhadrapada, Shukla Tritiya"
+2027-09-03,Samaveda Upakarma,major,
+2027-09-03,Gowri Habba,major,"Bhadrapada, Shukla Tritiya"
+2027-09-03,Rudra Savarni Manvadi,major,"Bhadrapada, Shukla Tritiya"
+2027-09-04,Ganesh Chaturthi,major,"Bhadrapada, Shukla Chaturthi"
+2027-09-04,Rishi Panchami,major,"Bhadrapada, Shukla Panchami"
+2027-09-04,Kerala Vinayaka Chaturthi,major,"Chingam, Shukla Chaturthi"
+2027-09-04,Agastya Arghya,major,based on Astronomy calculations
+2027-09-04,Samvatsari Parva,major,based on Jain calendar
+2027-09-04,Siddhivinayaka Chaturthi,major,"Bhadrapada, Shukla Chaturthi"
+2027-09-05,Teachers' Day,major,fixed day in Gregorian calendar
+2027-09-05,Skanda Sashti,major,"Bhadrapada, Shukla Shashthi"
+2027-09-06,Balarama Jayanti,major,"Bhadrapada, Shukla Shashthi"
+2027-09-07,Lalita Saptami,major,"Bhadrapada, Shukla Saptami"
+2027-09-07,Durva Ashtami,major,"Bhadrapada, Shukla Ashtami"
+2027-09-07,Jyeshtha Gauri Avahana,major,
+2027-09-08,Radha Ashtami,major,"Bhadrapada, Shukla Ashtami"
+2027-09-08,Mahalakshmi Vrat Begins,major,"Bhadrapada, Shukla Ashtami"
+2027-09-08,Jyeshtha Gauri Puja,major,
+2027-09-08,Dadhichi Jayanti,major,"Bhadrapada, Shukla Ashtami"
+2027-09-08,Masik Durgashtami,major,"Bhadrapada, Shukla Ashtami"
+2027-09-09,Jyeshtha Gauri Visarjana,major,
+2027-09-09,Dashavatara Vrat,major,"Bhadrapada, Shukla Dashami"
+2027-09-11,Parsva Ekadashi,ekadashi,"Bhadrapada, Shukla Ekadashi"
+2027-09-12,Kalki Dwadashi,major,"Bhadrapada, Shukla Dwadashi"
+2027-09-12,Vamana Jayanti,major,"Bhadrapada, Shukla Dwadashi"
+2027-09-12,Bhuvaneshvari Jayanti,major,"Bhadrapada, Shukla Dwadashi"
+2027-09-12,Onam,major,Sun in Simha &amp; Shravana Nakshatra
+2027-09-13,Soma Pradosh Vrat,vrat,"Bhadrapada, Shukla Trayodashi"
+2027-09-14,Ganesh Visarjan,major,"Bhadrapada, Shukla Chaturdashi"
+2027-09-14,Anant Chaturdashi,major,"Bhadrapada, Shukla Chaturdashi"
+2027-09-14,Hindi Diwas,major,fixed day in Gregorian calendar
+2027-09-15,Purnima Shraddha,purnima,"Bhadrapada, Shukla Purnima"
+2027-09-15,Visvesvaraya Jayanti,major,fixed day in Gregorian calendar
+2027-09-15,Engineer's Day,major,fixed day in Gregorian calendar
+2027-09-15,Bhadrapada Purnima Vrat,purnima,"Bhadrapada, Shukla Purnima"
+2027-09-15,Bhadrapada Purnima,purnima,"Bhadrapada, Shukla Purnima"
+2027-09-15,Anvadhan,major,"Bhadrapada, Shukla Chaturdashi"
+2027-09-16,Pitrupaksha Begins,major,"Ashwina, Krishna Pratipada"
+2027-09-16,Pratipada Shraddha,major,"Ashwina, Krishna Pratipada"
+2027-09-16,Ashwina Begins *North,major,"Kartika, Krishna Pratipada"
+2027-09-16,Ishti,major,"Bhadrapada, Shukla Purnima"
+2027-09-17,Dwitiya Shraddha,major,"Ashwina, Krishna Dwitiya"
+2027-09-17,Vishwakarma Puja,major,on Kanya Sankranti day
+2027-09-17,Kanya Sankranti,major,Simha to Kanya transit of Sun
+2027-09-18,Tritiya Shraddha,major,"Ashwina, Krishna Tritiya"
+2027-09-19,Chaturthi Shraddha,major,"Ashwina, Krishna Chaturthi"
+2027-09-19,Vighnaraja Sankashti,vrat,"Ashwina, Krishna Chaturthi"
+2027-09-20,Panchami Shraddha,major,"Ashwina, Krishna Panchami"
+2027-09-20,Maha Bharani,major,"Ashwina, Bharani Nakshatra"
+2027-09-20,Masik Karthigai,major,based on Solar calendar
+2027-09-21,Shashthi Shraddha,major,"Ashwina, Krishna Shashthi"
+2027-09-22,Saptami Shraddha,major,"Ashwina, Krishna Saptami"
+2027-09-22,Rohini Vrat,major,based on Jain calendar
+2027-09-23,Ashtami Shraddha,major,"Ashwina, Krishna Ashtami"
+2027-09-23,Mahalakshmi Vrat Ends,major,"Ashwina, Krishna Ashtami"
+2027-09-23,Jivitputrika Vrat,major,"Ashwina, Krishna Ashtami"
+2027-09-23,Autumnal Equinox,major,Astronomy Event
+2027-09-23,Kalashtami,major,"Ashwina, Krishna Ashtami"
+2027-09-23,Masik Krishna Janmashtami,major,"Ashwina, Krishna Ashtami"
+2027-09-24,Navami Shraddha,major,"Ashwina, Krishna Navami"
+2027-09-25,Dashami Shraddha,major,"Ashwina, Krishna Dashami"
+2027-09-26,Ekadashi Shraddha,ekadashi,"Ashwina, Krishna Ekadashi"
+2027-09-26,Indira Ekadashi,ekadashi,"Ashwina, Krishna Ekadashi"
+2027-09-27,Krishna Kalki Dwadashi,major,"Ashwina, Krishna Dwadashi"
+2027-09-27,Dwadashi Shraddha,major,"Ashwina, Krishna Dwadashi"
+2027-09-27,Magha Shraddha,major,"Ashwina, Magha Nakshatra"
+2027-09-27,Soma Pradosh Vrat,vrat,"Ashwina, Krishna Trayodashi"
+2027-09-28,Trayodashi Shraddha,major,"Ashwina, Krishna Trayodashi"
+2027-09-28,Chaturdashi Shraddha,major,"Ashwina, Krishna Chaturdashi"
+2027-09-28,Masik Shivaratri,major,"Ashwina, Krishna Chaturdashi"
+2027-09-28,Kali Yuga Diwas,major,"Ashwina, Krishna Trayodashi"
+2027-09-29,Sarva Pitru Amavasya,amavasya,"Ashwina, Krishna Amavasya"
+2027-09-29,Darsha Amavasya,amavasya,"Ashwina, Krishna Amavasya"
+2027-09-29,Anvadhan,major,"Ashwina, Krishna Chaturdashi"
+2027-09-30,Maharaja Agrasen Jayanti,major,"Ashwina, Shukla Pratipada"
+2027-09-30,Navratri Begins,major,"Ashwina, Shukla Pratipada"
+2027-09-30,Ghatasthapana,major,"Ashwina, Shukla Pratipada"
+2027-09-30,Ishti,major,"Ashwina, Krishna Amavasya"
+2027-09-30,Ashwina Amavasya,amavasya,"Kartika, Krishna Amavasya"
+2027-10-01,Chandra Darshana,major,"Ashwina, Shukla Pratipada"
+2027-10-02,Gandhi Jayanti,major,fixed day in Gregorian calendar
+2027-10-03,Kapardisha Chaturthi,major,"Ashwina, Shukla Chaturthi"
+2027-10-04,Upang Lalita Vrat,major,"Ashwina, Shukla Panchami"
+2027-10-05,Bilva Nimantran,major,"Ashwina, Shukla Shashthi"
+2027-10-05,Kalparambha,major,"Ashwina, Shukla Shashthi"
+2027-10-05,Akal Bodhon,major,"Ashwina, Shukla Shashthi"
+2027-10-05,Skanda Sashti,major,"Ashwina, Shukla Shashthi"
+2027-10-06,Saraswati Avahan,major,"Ashwina, Mula Nakshatra"
+2027-10-06,Navpatrika Puja,major,"Ashwina, Shukla Saptami"
+2027-10-06,Ashwina Navapada Oli Begins,major,based on Jain calendar
+2027-10-07,Saraswati Puja,major,"Ashwina, Purva Ashadha Nakshatra"
+2027-10-07,Durga Ashtami,major,"Ashwina, Shukla Ashtami"
+2027-10-07,Masik Durgashtami,major,"Ashwina, Shukla Ashtami"
+2027-10-08,Sandhi Puja,major,"Ashwina, Shukla Ashtami"
+2027-10-08,Maha Navami,major,"Ashwina, Shukla Navami"
+2027-10-08,Saraswati Balidan,major,"Ashwina, Uttara Ashadha Nakshatra"
+2027-10-09,Saraswati Visarjan,major,"Ashwina, Shravana Nakshatra"
+2027-10-09,Ayudha Puja,major,"Ashwina, Shukla Navami"
+2027-10-09,Durga Balidan,major,"Ashwina, Shukla Navami"
+2027-10-09,Vijayadashami,major,"Ashwina, Shukla Dashami"
+2027-10-09,Dussehra,major,"Ashwina, Shukla Dashami"
+2027-10-09,Bengal Maha Navami,major,"Ashwina, Shukla Navami"
+2027-10-09,South Saraswati Puja,major,"Ashwina, Shukla Navami"
+2027-10-09,Buddha Jayanti,major,"Ashwina, Shukla Dashami"
+2027-10-09,Aparajita Jayanti,major,"Ashwina, Shukla Dashami"
+2027-10-09,Daksha Savarni Manvadi,major,"Ashwina, Shukla Navami"
+2027-10-10,Durga Visarjan,major,"Ashwina, Shukla Dashami"
+2027-10-10,Bengal Vijayadashami,major,"Ashwina, Shukla Dashami"
+2027-10-10,Vidyarambham Day,major,"Ashwina, Shukla Dashami"
+2027-10-10,Madhvacharya Jayanti,major,"Ashwina, Shukla Dashami"
+2027-10-10,Mysore Dasara,major,"Ashwina, Shukla Dashami"
+2027-10-10,Kashi Bharat Milap,major,next day of Dussehra
+2027-10-11,Padmanabha Dwadashi,major,"Ashwina, Shukla Dwadashi"
+2027-10-11,Papankusha Ekadashi,ekadashi,"Ashwina, Shukla Ekadashi"
+2027-10-12,Bhauma Pradosh Vrat,vrat,"Ashwina, Shukla Trayodashi"
+2027-10-14,Kojagara Puja,major,"Ashwina, Shukla Purnima"
+2027-10-14,Sharad Purnima,purnima,"Ashwina, Shukla Purnima"
+2027-10-15,Valmiki Jayanti,major,"Ashwina, Shukla Purnima"
+2027-10-15,Meerabai Jayanti,major,"Ashwina, Shukla Purnima"
+2027-10-15,Ashwina Navapada Oli Ends,major,based on Jain calendar
+2027-10-15,Ashwina Purnima Vrat,purnima,"Ashwina, Shukla Purnima"
+2027-10-15,Ashwina Purnima,purnima,"Ashwina, Shukla Purnima"
+2027-10-15,Anvadhan,major,"Ashwina, Shukla Chaturdashi"
+2027-10-16,Kartika Begins *North,major,"Margashirsha, Krishna Pratipada"
+2027-10-16,Ishti,major,"Ashwina, Shukla Purnima"
+2027-10-18,Karwa Chauth,major,"Kartika, Krishna Chaturthi"
+2027-10-18,Atla Tadde,major,"Kartika, Krishna Tritiya"
+2027-10-18,Tula Sankranti,major,Kanya to Tula transit of Sun
+2027-10-18,Masik Karthigai,major,based on Solar calendar
+2027-10-18,Vakratunda Sankashti,vrat,"Kartika, Krishna Chaturthi"
+2027-10-19,Rohini Vrat,major,based on Jain calendar
+2027-10-22,Ahoi Ashtami,major,"Kartika, Krishna Ashtami"
+2027-10-22,Radha Kunda Snan,major,"Kartika, Krishna Ashtami"
+2027-10-22,Kalashtami,major,"Kartika, Krishna Ashtami"
+2027-10-22,Masik Krishna Janmashtami,major,"Kartika, Krishna Ashtami"
+2027-10-25,Rama Ekadashi,ekadashi,"Kartika, Krishna Ekadashi"
+2027-10-26,Krishna Padmanabha Dwadashi,major,"Kartika, Krishna Dwadashi"
+2027-10-26,Govatsa Dwadashi,major,"Kartika, Krishna Dwadashi"
+2027-10-26,Vaishnava Rama Ekadashi,ekadashi,"Kartika, Krishna Ekadashi"
+2027-10-27,Dhanteras,major,"Kartika, Krishna Trayodashi"
+2027-10-27,Yama Deepam,major,"Kartika, Krishna Trayodashi"
+2027-10-27,Kali Chaudas,major,"Kartika, Krishna Chaturdashi"
+2027-10-27,Hanuman Puja,major,"Kartika, Krishna Chaturdashi"
+2027-10-27,Yama Panchaka Begins,major,
+2027-10-27,Budha Pradosh Vrat,vrat,"Kartika, Krishna Trayodashi"
+2027-10-27,Masik Shivaratri,major,"Kartika, Krishna Chaturdashi"
+2027-10-28,Narak Chaturdashi,major,"Kartika, Krishna Chaturdashi"
+2027-10-28,Tamil Deepavali,major,"Kartika, Krishna Chaturdashi"
+2027-10-28,Kali Puja,major,"Kartika, Krishna Amavasya"
+2027-10-29,Lakshmi Puja,major,"Kartika, Krishna Amavasya"
+2027-10-29,Kedar Gauri Vrat,major,"Kartika, Krishna Amavasya"
+2027-10-29,Diwali,major,"Kartika, Krishna Amavasya"
+2027-10-29,Chopda Puja,major,"Kartika, Krishna Amavasya"
+2027-10-29,Sharda Puja,major,"Kartika, Krishna Amavasya"
+2027-10-29,Deepamalika,major,"</div></div><a href=""/hindu-goddesses/parvati/mahavidya/kamala/jayanti/goddess-kamala-jayanti-date.html?year=2027"" class=""dpEvent""><div class=""dpEventImage""><div class=""dpEmbeddedContainer dpRatio3By2""><img src=""/images/festivals/180x120/xfest_placeholder.png.pagespeed.ic.AarGgNmKoj.png"" data-srcset=""/images/festivals/180x120/goddess_kamala.jpg 1x, /images/festivals/270x180/goddess_kamala.jpg 2x, /images/festivals/360x240/goddess_kamala.jpg 3x"" class=""dpEmbeddedContainerImg lazy"" alt=""Kamala Jayanti""><noscript><img src=""/images/festivals/180x120/xgoddess_kamala.jpg.pagespeed.ic.XEmR-1bsnj.jpg"" class=""dpEmbeddedContainerImg"" alt=""Kamala Jayanti""></noscript></div></div><div class=""dpEventInfo""><div class=""dpEventName dpHinduEventColor"">Kamala Jayanti</div><div class=""dpEventGregDate"">October 29, 2027, Friday</div>Kartika, Krishna Amavasya"
+2027-10-29,Darsha Amavasya,amavasya,"Kartika, Krishna Amavasya"
+2027-10-29,Anvadhan,major,"Kartika, Krishna Chaturdashi"
+2027-10-29,Kartika Amavasya,amavasya,"Margashirsha, Krishna Amavasya"
+2027-10-30,Govardhan Puja,major,"Kartika, Shukla Pratipada"
+2027-10-30,Annakut,major,"Kartika, Shukla Pratipada"
+2027-10-30,Bali Pratipada,major,"Kartika, Shukla Pratipada"
+2027-10-30,Dyuta Krida,major,"Kartika, Shukla Pratipada"
+2027-10-30,Gujarati New Year,major,"Kartika, Shukla Pratipada"
+2027-10-30,Ishti,major,"Kartika, Krishna Amavasya"
+2027-10-31,Bhaiya Dooj,major,"Kartika, Shukla Dwitiya"
+2027-10-31,Yama Dwitiya,major,"Kartika, Shukla Dwitiya"
+2027-10-31,Chitragupta Puja,major,"Kartika, Shukla Dwitiya"
+2027-10-31,Chandra Darshana,major,"Kartika, Shukla Pratipada"
+2027-11-02,Nagula Chavithi,major,"Kartika, Shukla Chaturthi"
+2027-11-02,Labh Chaturthi,major,"Kartika, Shukla Chaturthi"
+2027-11-03,Labh Panchami,major,"Kartika, Shukla Panchami"
+2027-11-04,Soora Samharam,major,"Kartika, Shukla Shashthi"
+2027-11-04,Chhath Puja,major,"Kartika, Shukla Shashthi"
+2027-11-04,Skanda Sashti,major,"Kartika, Shukla Shashthi"
+2027-11-05,Jalaram Bapa Jayanti,major,"Kartika, Shukla Saptami</div></div><a href=""/jain/calendar/jain-calendar.html?year=2027"" class=""dpEvent""><div class=""dpEventImage""><div class=""dpEmbeddedContainer dpRatio3By2""><img src=""/images/festivals/180x120/xfest_placeholder.png.pagespeed.ic.AarGgNmKoj.png"" data-srcset=""/images/festivals/180x120/mahavir.jpg 1x, /images/festivals/270x180/mahavir.jpg 2x, /images/festivals/360x240/mahavir.jpg 3x"" class=""dpEmbeddedContainerImg lazy"" alt=""Kartika Ashtahnika Begins""><noscript><img src=""/images/festivals/180x120/xmahavir.jpg.pagespeed.ic.gP_LHALIol.jpg"" class=""dpEmbeddedContainerImg"" alt=""Kartika Ashtahnika Begins""></noscript></div></div><div class=""dpEventInfo""><div class=""dpEventName dpHinduEventColor"">Kartika Ashtahnika Begins</div><div class=""dpEventGregDate"">November 5, 2027, Friday</div>based on Jain calendar"
+2027-11-06,Gopashtami,major,"Kartika, Shukla Ashtami"
+2027-11-06,Masik Durgashtami,major,"Kartika, Shukla Ashtami"
+2027-11-07,Akshaya Navami,major,"Kartika, Shukla Navami"
+2027-11-07,Jagaddhatri Puja,major,"Kartika, Shukla Navami"
+2027-11-07,Sata Yuga Diwas,major,"Kartika, Shukla Navami"
+2027-11-08,Kansa Vadh,major,"Kartika, Shukla Dashami"
+2027-11-10,Yogeshwara Dwadashi,major,"Kartika, Shukla Dwadashi"
+2027-11-10,Bhishma Panchak Begins,major,"Kartika, Shukla Ekadashi"
+2027-11-10,Devutthana Ekadashi,ekadashi,"Kartika, Shukla Ekadashi"
+2027-11-11,Tulasi Vivah,major,"Kartika, Shukla Dwadashi"
+2027-11-11,Guru Pradosh Vrat,vrat,"Kartika, Shukla Trayodashi"
+2027-11-11,Tamasa Manvadi,major,"Kartika, Shukla Dwadashi"
+2027-11-12,Vaikuntha Chaturdashi,major,"Kartika, Shukla Chaturdashi"
+2027-11-12,Vishweshwara Vrat,major,"Kartika, Shukla Chaturdashi"
+2027-11-13,Manikarnika Snan,major,"Kartika, Shukla Chaturdashi"
+2027-11-13,Dev Diwali,major,"Kartika, Shukla Purnima"
+2027-11-13,Kartika Chaumasi Chaudas,major,based on Jain calendar
+2027-11-13,Kartika Purnima Vrat,purnima,"Kartika, Shukla Purnima"
+2027-11-13,Anvadhan,major,"Kartika, Shukla Chaturdashi"
+2027-11-14,Bhishma Panchak Ends,major,"Kartika, Shukla Purnima"
+2027-11-14,Guru Nanak Jayanti,major,"Kartika, Shukla Purnima"
+2027-11-14,Pushkara Snana,major,"Kartika, Shukla Purnima"
+2027-11-14,Masik Karthigai,major,based on Solar calendar
+2027-11-14,Nehru Jayanti,major,fixed day in Gregorian calendar
+2027-11-14,Kartika Ashtahnika Ends,major,based on Jain calendar
+2027-11-14,Kartika Ratha Yatra,major,based on Jain calendar
+2027-11-14,Children's Day,major,fixed day in Gregorian calendar
+2027-11-14,Kartika Purnima,purnima,"Kartika, Shukla Purnima"
+2027-11-14,Ishti,major,"Kartika, Shukla Purnima"
+2027-11-14,Uttama Manvadi,major,"Kartika, Shukla Purnima"
+2027-11-15,Margashirsha Begins *North,major,"Pausha, Krishna Pratipada"
+2027-11-15,Rohini Vrat,major,based on Jain calendar
+2027-11-17,Vrishchika Sankranti,major,Tula to Vrishchika transit of Sun
+2027-11-17,Mandala Pooja Begins,major,based on Malayalam calendar
+2027-11-17,Ganadhipa Sankashti,vrat,"Margashirsha, Krishna Chaturthi"
+2027-11-20,Kalabhairav Jayanti,major,"Margashirsha, Krishna Ashtami"
+2027-11-20,Kalashtami,major,"Margashirsha, Krishna Ashtami"
+2027-11-20,Masik Krishna Janmashtami,major,"Margashirsha, Krishna Ashtami"
+2027-11-24,Krishna Yogeshwara Dwadashi,major,"Margashirsha, Krishna Dwadashi"
+2027-11-24,Utpanna Ekadashi,ekadashi,"Margashirsha, Krishna Ekadashi"
+2027-11-25,Guru Pradosh Vrat,vrat,"Margashirsha, Krishna Trayodashi"
+2027-11-26,Masik Shivaratri,major,"Margashirsha, Krishna Chaturdashi"
+2027-11-27,Bala Jayanti,major,"Margashirsha, Krishna Chaturdashi"
+2027-11-27,Darsha Amavasya,amavasya,"Margashirsha, Krishna Amavasya"
+2027-11-27,Anvadhan,major,"Margashirsha, Krishna Chaturdashi"
+2027-11-28,Ishti,major,"Margashirsha, Krishna Amavasya"
+2027-11-28,Margashirsha Amavasya,amavasya,"Pausha, Krishna Amavasya"
+2027-11-29,Chandra Darshana,major,"Margashirsha, Shukla Pratipada"
+2027-12-01,World AIDS Day,major,fixed day in Gregorian calendar
+2027-12-02,Krichchhra Chaturthi,major,"Margashirsha, Shukla Chaturthi"
+2027-12-03,Vivah Panchami,major,"Margashirsha, Shukla Panchami"
+2027-12-03,Subrahmanya Sashti,major,"Margashirsha, Shukla Shashthi"
+2027-12-03,Naga Panchami *Telugu,major,"Margashirsha, Shukla Panchami"
+2027-12-03,Skanda Sashti,major,"Margashirsha, Shukla Shashthi"
+2027-12-04,Champa Shashthi,major,"Margashirsha, Shukla Shashthi"
+2027-12-05,Bhanu Saptami,major,"Margashirsha, Shukla Saptami"
+2027-12-06,Masik Durgashtami,major,"Margashirsha, Shukla Ashtami"
+2027-12-09,Gita Jayanti,major,"Margashirsha, Shukla Ekadashi"
+2027-12-09,Guruvayur Ekadashi,ekadashi,based on Solar calendar
+2027-12-09,Mokshada Ekadashi,ekadashi,"Margashirsha, Shukla Ekadashi"
+2027-12-10,Matsya Dwadashi,major,"Margashirsha, Shukla Dwadashi"
+2027-12-11,Shani Trayodashi,major,"Margashirsha, Shukla Trayodashi"
+2027-12-11,Hanuman Jayanti *Kannada,major,"Margashirsha, Shukla Trayodashi"
+2027-12-11,Shani Pradosh Vrat,vrat,"Margashirsha, Shukla Trayodashi"
+2027-12-12,Karthigai Deepam,major,based on Solar calendar
+2027-12-13,Dattatreya Jayanti,major,"Margashirsha, Shukla Purnima"
+2027-12-13,Annapurna Jayanti,major,"Margashirsha, Shukla Purnima"
+2027-12-13,Bhairavi Jayanti,major,"Margashirsha, Shukla Purnima"
+2027-12-13,Rohini Vrat,major,based on Jain calendar
+2027-12-13,Margashirsha Purnima Vrat,purnima,"Margashirsha, Shukla Purnima"
+2027-12-13,Margashirsha Purnima,purnima,"Margashirsha, Shukla Purnima"
+2027-12-13,Anvadhan,major,"Margashirsha, Shukla Chaturdashi"
+2027-12-14,Pausha Begins *North,major,"Magha, Krishna Pratipada"
+2027-12-14,Ishti,major,"Margashirsha, Shukla Purnima"
+2027-12-16,Dhanu Sankranti,major,Vrishchika to Dhanu transit of Sun
+2027-12-16,Akhuratha Sankashti,vrat,"Pausha, Krishna Chaturthi"
+2027-12-19,Bhanu Saptami,major,"Pausha, Krishna Saptami"
+2027-12-20,Kalashtami,major,"Pausha, Krishna Ashtami"
+2027-12-20,Masik Krishna Janmashtami,major,"Pausha, Krishna Ashtami"
+2027-12-22,Shortest Day of Year,major,Astronomy Event
+2027-12-23,Saphala Ekadashi,ekadashi,"Pausha, Krishna Ekadashi"
+2027-12-24,Krishna Matsya Dwadashi,major,"Pausha, Krishna Dwadashi"
+2027-12-25,Shani Trayodashi,major,"Pausha, Krishna Trayodashi"
+2027-12-25,Shani Pradosh Vrat,vrat,"Pausha, Krishna Trayodashi"
+2027-12-25,Masik Shivaratri,major,"Pausha, Krishna Chaturdashi"
+2027-12-27,Somavati Amavasya,amavasya,"Pausha, Krishna Amavasya"
+2027-12-27,Hanuman Jayanti *Tamil,major,"Pausha, Krishna Amavasya"
+2027-12-27,Mandala Pooja,major,based on Malayalam calendar
+2027-12-27,Darsha Amavasya,amavasya,"Pausha, Krishna Amavasya"
+2027-12-27,Anvadhan,major,"Pausha, Krishna Chaturdashi"
+2027-12-27,Pausha Amavasya,amavasya,"Magha, Krishna Amavasya"
+2027-12-28,Ishti,major,"Pausha, Krishna Amavasya"
+2027-12-29,Chandra Darshana,major,"Pausha, Shukla Pratipada"
+2027-12-31,Vighneshvara Chaturthi,major,"Pausha, Shukla Chaturthi"
