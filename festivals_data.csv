@@ -163,7 +163,7 @@ Date,Name,Type,Description
 2026-03-26,Ashoka Ashtami Vrat,major,"Chaitra, Shukla Ashtami"
 2026-03-26,Masik Durgashtami,major,"Chaitra, Shukla Ashtami"
 2026-03-27,Rama Navami *ISKCON,major,"Chaitra, Shukla Navami"
-2026-03-27,Swaminarayan Jayanti,major,"Chaitra, Shukla Navami</div></div><a href=""/dwadashi/vamana/vamana-dwadashi-date-time.html?year=2026"" class=""dpEvent""><div class=""dpEventImage""><div class=""dpEmbeddedContainer dpRatio3By2""><img src=""/images/festivals/180x120/xfest_placeholder.png.pagespeed.ic.AarGgNmKoj.png"" data-srcset=""/images/gods/chaubisa-avatara/lord-vamana/180x120/lord_vamana.jpg 1x, /images/gods/chaubisa-avatara/lord-vamana/270x180/lord_vamana.jpg 2x, /images/gods/chaubisa-avatara/lord-vamana/360x240/lord_vamana.jpg 3x"" class=""dpEmbeddedContainerImg lazy"" alt=""Vamana Dwadashi""><noscript><img src=""/images/gods/chaubisa-avatara/lord-vamana/180x120/xlord_vamana.jpg.pagespeed.ic.Abxzssontb.jpg"" class=""dpEmbeddedContainerImg"" alt=""Vamana Dwadashi""></noscript></div></div><div class=""dpEventInfo""><div class=""dpEventName dpHinduEventColor"">Vamana Dwadashi</div><div class=""dpEventGregDate"">March 29, 2026, Sunday</div>Chaitra, Shukla Dwadashi"
+2026-03-29,Vamana Dwadashi,major,"Chaitra, Shukla Dwadashi"
 2026-03-29,Kamada Ekadashi,ekadashi,"Chaitra, Shukla Ekadashi"
 2026-03-30,Soma Pradosh Vrat,vrat,"Chaitra, Shukla Trayodashi"
 2026-03-31,Mahavir Swami Jayanti,major,"Chaitra, Shukla Trayodashi"
@@ -286,7 +286,7 @@ Date,Name,Type,Description
 2026-06-14,Rohini Vrat,major,based on Jain calendar
 2026-06-14,Adhika Darsha Amavasya,amavasya,"Jyeshtha Adhika, Krishna Amavasya"
 2026-06-14,Anvadhan,major,"Jyeshtha Adhika, Shukla Chaturdashi"
-2026-06-15,Jyeshtha Adhika Maas Ends,major,Jyeshtha Adhika Maas Ends
+2026-06-15,Jyeshtha Adhika Maas Ends,major,
 2026-06-15,Mithuna Sankranti,major,Vrishabha to Mithuna transit of Sun
 2026-06-15,Jyeshtha Adhika Amavasya,amavasya,"Jyeshtha Adhika, Krishna Amavasya"
 2026-06-15,Ishti,major,"Jyeshtha Adhika, Krishna Amavasya"
@@ -406,7 +406,7 @@ Date,Name,Type,Description
 2026-08-25,Fourth Mangala Gauri Vrat,major,Fourth Tuesday in Shravana
 2026-08-25,Bhauma Pradosh Vrat,vrat,"Shravana, Shukla Trayodashi"
 2026-08-26,Rigveda Upakarma,major,
-2026-08-26,Onam,major,Sun in Simha &amp; Shravana Nakshatra
+2026-08-26,Onam,major,Sun in Simha & Shravana Nakshatra
 2026-08-27,Yajurveda Upakarma,major,
 2026-08-27,Hayagriva Jayanti,major,"Shravana, Shukla Purnima"
 2026-08-27,Shravana Purnima Vrat,purnima,"Shravana, Shukla Purnima"
@@ -611,7 +611,7 @@ Date,Name,Type,Description
 2026-11-08,Chopda Puja,major,"Kartika, Krishna Amavasya"
 2026-11-08,Sharda Puja,major,"Kartika, Krishna Amavasya"
 2026-11-08,Kali Puja,major,"Kartika, Krishna Amavasya"
-2026-11-08,Deepamalika,major,"</div></div><a href=""/hindu-goddesses/parvati/mahavidya/kamala/jayanti/goddess-kamala-jayanti-date.html?year=2026"" class=""dpEvent""><div class=""dpEventImage""><div class=""dpEmbeddedContainer dpRatio3By2""><img src=""/images/festivals/180x120/xfest_placeholder.png.pagespeed.ic.AarGgNmKoj.png"" data-srcset=""/images/festivals/180x120/goddess_kamala.jpg 1x, /images/festivals/270x180/goddess_kamala.jpg 2x, /images/festivals/360x240/goddess_kamala.jpg 3x"" class=""dpEmbeddedContainerImg lazy"" alt=""Kamala Jayanti""><noscript><img src=""/images/festivals/180x120/xgoddess_kamala.jpg.pagespeed.ic.XEmR-1bsnj.jpg"" class=""dpEmbeddedContainerImg"" alt=""Kamala Jayanti""></noscript></div></div><div class=""dpEventInfo""><div class=""dpEventName dpHinduEventColor"">Kamala Jayanti</div><div class=""dpEventGregDate"">November 8, 2026, Sunday</div>Kartika, Krishna Amavasya"
+2026-11-08,Kamala Jayanti,major,"Kartika, Krishna Amavasya"
 2026-11-08,Darsha Amavasya,amavasya,"Kartika, Krishna Amavasya"
 2026-11-09,Anvadhan,major,"Kartika, Krishna Chaturdashi"
 2026-11-09,Kartika Amavasya,amavasya,"Margashirsha, Krishna Amavasya"
@@ -633,7 +633,7 @@ Date,Name,Type,Description
 2026-11-15,Soora Samharam,major,"Kartika, Shukla Shashthi"
 2026-11-15,Chhath Puja,major,"Kartika, Shukla Shashthi"
 2026-11-15,Skanda Sashti,major,"Kartika, Shukla Shashthi"
-2026-11-16,Jalaram Bapa Jayanti,major,"Kartika, Shukla Saptami</div></div><a href=""/sankranti/vrischika-sankranti-date-time.html?year=2026"" class=""dpEvent""><div class=""dpEventImage""><div class=""dpEmbeddedContainer dpRatio3By2""><img src=""/images/festivals/180x120/xfest_placeholder.png.pagespeed.ic.AarGgNmKoj.png"" data-srcset=""/images/festivals/180x120/vrischika_sankranti.jpg 1x, /images/festivals/270x180/vrischika_sankranti.jpg 2x, /images/festivals/360x240/vrischika_sankranti.jpg 3x"" class=""dpEmbeddedContainerImg lazy"" alt=""Vrishchika Sankranti""><noscript><img src=""/images/festivals/180x120/xvrischika_sankranti.jpg.pagespeed.ic.gdvuM9uQr5.jpg"" class=""dpEmbeddedContainerImg"" alt=""Vrishchika Sankranti""></noscript></div></div><div class=""dpEventInfo""><div class=""dpEventName dpHinduEventColor"">Vrishchika Sankranti</div><div class=""dpEventGregDate"">November 16, 2026, Monday</div>Tula to Vrishchika transit of Sun"
+2026-11-16,Vrishchika Sankranti,major,Tula to Vrishchika transit of Sun
 2026-11-16,Kartika Ashtahnika Begins,major,based on Jain calendar
 2026-11-17,Gopashtami,major,"Kartika, Shukla Ashtami"
 2026-11-17,Mandala Pooja Begins,major,based on Malayalam calendar
@@ -904,7 +904,7 @@ Date,Name,Type,Description
 2027-04-14,Baisakhi,major,observed on Mesha Sankranti
 2027-04-14,Masik Durgashtami,major,"Chaitra, Shukla Ashtami"
 2027-04-15,Rama Navami,major,"Chaitra, Shukla Navami"
-2027-04-15,Swaminarayan Jayanti,major,"Chaitra, Shukla Navami</div></div><a href=""/festivals/vishu/vishu-kani-date-time.html?year=2027"" class=""dpEvent""><div class=""dpEventImage""><div class=""dpEmbeddedContainer dpRatio3By2""><img src=""/images/festivals/180x120/xfest_placeholder.png.pagespeed.ic.AarGgNmKoj.png"" data-srcset=""/images/festivals/180x120/vishu_kani.jpg 1x, /images/festivals/270x180/vishu_kani.jpg 2x, /images/festivals/360x240/vishu_kani.jpg 3x"" class=""dpEmbeddedContainerImg lazy"" alt=""Vishu Kani""><noscript><img src=""/images/festivals/180x120/xvishu_kani.jpg.pagespeed.ic.NjLp_b6ef8.jpg"" class=""dpEmbeddedContainerImg"" alt=""Vishu Kani""></noscript></div></div><div class=""dpEventInfo""><div class=""dpEventName dpHinduEventColor"">Vishu Kani</div><div class=""dpEventGregDate"">April 15, 2027, Thursday</div>based on Solar calendar"
+2027-04-15,Vishu Kani,major,based on Solar calendar
 2027-04-15,Pohela Boishakha,major,first day of Bengali calendar
 2027-04-17,Vamana Dwadashi,major,"Chaitra, Shukla Dwadashi"
 2027-04-17,Thrissur Pooram,major,based on Malayalam calendar
@@ -1194,7 +1194,7 @@ Date,Name,Type,Description
 2027-09-12,Kalki Dwadashi,major,"Bhadrapada, Shukla Dwadashi"
 2027-09-12,Vamana Jayanti,major,"Bhadrapada, Shukla Dwadashi"
 2027-09-12,Bhuvaneshvari Jayanti,major,"Bhadrapada, Shukla Dwadashi"
-2027-09-12,Onam,major,Sun in Simha &amp; Shravana Nakshatra
+2027-09-12,Onam,major,Sun in Simha & Shravana Nakshatra
 2027-09-13,Soma Pradosh Vrat,vrat,"Bhadrapada, Shukla Trayodashi"
 2027-09-14,Ganesh Visarjan,major,"Bhadrapada, Shukla Chaturdashi"
 2027-09-14,Anant Chaturdashi,major,"Bhadrapada, Shukla Chaturdashi"
@@ -1322,7 +1322,7 @@ Date,Name,Type,Description
 2027-10-29,Diwali,major,"Kartika, Krishna Amavasya"
 2027-10-29,Chopda Puja,major,"Kartika, Krishna Amavasya"
 2027-10-29,Sharda Puja,major,"Kartika, Krishna Amavasya"
-2027-10-29,Deepamalika,major,"</div></div><a href=""/hindu-goddesses/parvati/mahavidya/kamala/jayanti/goddess-kamala-jayanti-date.html?year=2027"" class=""dpEvent""><div class=""dpEventImage""><div class=""dpEmbeddedContainer dpRatio3By2""><img src=""/images/festivals/180x120/xfest_placeholder.png.pagespeed.ic.AarGgNmKoj.png"" data-srcset=""/images/festivals/180x120/goddess_kamala.jpg 1x, /images/festivals/270x180/goddess_kamala.jpg 2x, /images/festivals/360x240/goddess_kamala.jpg 3x"" class=""dpEmbeddedContainerImg lazy"" alt=""Kamala Jayanti""><noscript><img src=""/images/festivals/180x120/xgoddess_kamala.jpg.pagespeed.ic.XEmR-1bsnj.jpg"" class=""dpEmbeddedContainerImg"" alt=""Kamala Jayanti""></noscript></div></div><div class=""dpEventInfo""><div class=""dpEventName dpHinduEventColor"">Kamala Jayanti</div><div class=""dpEventGregDate"">October 29, 2027, Friday</div>Kartika, Krishna Amavasya"
+2027-10-29,Kamala Jayanti,major,"Kartika, Krishna Amavasya"
 2027-10-29,Darsha Amavasya,amavasya,"Kartika, Krishna Amavasya"
 2027-10-29,Anvadhan,major,"Kartika, Krishna Chaturdashi"
 2027-10-29,Kartika Amavasya,amavasya,"Margashirsha, Krishna Amavasya"
@@ -1342,7 +1342,7 @@ Date,Name,Type,Description
 2027-11-04,Soora Samharam,major,"Kartika, Shukla Shashthi"
 2027-11-04,Chhath Puja,major,"Kartika, Shukla Shashthi"
 2027-11-04,Skanda Sashti,major,"Kartika, Shukla Shashthi"
-2027-11-05,Jalaram Bapa Jayanti,major,"Kartika, Shukla Saptami</div></div><a href=""/jain/calendar/jain-calendar.html?year=2027"" class=""dpEvent""><div class=""dpEventImage""><div class=""dpEmbeddedContainer dpRatio3By2""><img src=""/images/festivals/180x120/xfest_placeholder.png.pagespeed.ic.AarGgNmKoj.png"" data-srcset=""/images/festivals/180x120/mahavir.jpg 1x, /images/festivals/270x180/mahavir.jpg 2x, /images/festivals/360x240/mahavir.jpg 3x"" class=""dpEmbeddedContainerImg lazy"" alt=""Kartika Ashtahnika Begins""><noscript><img src=""/images/festivals/180x120/xmahavir.jpg.pagespeed.ic.gP_LHALIol.jpg"" class=""dpEmbeddedContainerImg"" alt=""Kartika Ashtahnika Begins""></noscript></div></div><div class=""dpEventInfo""><div class=""dpEventName dpHinduEventColor"">Kartika Ashtahnika Begins</div><div class=""dpEventGregDate"">November 5, 2027, Friday</div>based on Jain calendar"
+2027-11-05,Kartika Ashtahnika Begins,major,based on Jain calendar
 2027-11-06,Gopashtami,major,"Kartika, Shukla Ashtami"
 2027-11-06,Masik Durgashtami,major,"Kartika, Shukla Ashtami"
 2027-11-07,Akshaya Navami,major,"Kartika, Shukla Navami"
